@@ -1,0 +1,245 @@
+==========================================================================================
+ANALISE 1: PLAYED_NEXT_DAY (retencao D+1)
+==========================================================================================
+
+### Horario de jogo (session_hour) ###
+-- session_hour vs played_next_day -- mean(True)=15.18 mean(False)=15.14 t=0.55 p=0.584761
+
+-- hour_bucket vs played_next_day -- chi2=5.60, p=0.230680, dof=4
+                      rate      n
+hour_bucket                      
+tarde(13-17)      0.228212   6919
+madrugada(22-23)  0.226345   8328
+manha cedo(6-9)   0.220037  12557
+noite(18-21)      0.215686  10659
+manha(10-12)      0.214286   1386
+
+
+### Palavra do dia (word) - top/bottom 10 por retencao D+1 ###
+-- word vs played_next_day -- chi2=34.76, p=0.212397, dof=29
+           rate     n
+word                 
+PRETO  0.246277   873
+JOGOS  0.243182   880
+PAZÃO  0.239229  1764
+TROCO  0.236633   879
+NIXÃO  0.236203   906
+PRAIA  0.235632   870
+GENRO  0.235229   897
+IDEIA  0.232798   872
+CIÚME  0.232456   912
+SONHO  0.232222   900
+METAL  0.228415   915
+HERÓI  0.228286  2602
+CASCA  0.228020  1763
+PLANO  0.227483   866
+DANÇA  0.226254   937
+VENTO  0.225752  1763
+BARCO  0.223502  1736
+VINHO  0.222097   887
+FALHA  0.220415  1783
+FILME  0.219288   871
+ORAÇÃ  0.213859   837
+PRATO  0.212493  3586
+CAMPO  0.212321   909
+MORRO  0.210646   883
+LARGO  0.210466   879
+CORVO  0.208380  2697
+NUVEM  0.207453  2603
+ROSTO  0.204900   898
+TEMPO  0.204392  1776
+FRACO  0.193370   905
+
+
+### Device ###
+-- device vs played_next_day -- chi2=0.51, p=0.475148, dof=1
+             rate      n
+device                  
+iOS      0.222790  21738
+Android  0.219756  18111
+
+
+### Streak day ###
+-- streak_day vs played_next_day -- mean(True)=1.32 mean(False)=1.28 t=4.47 p=0.000008
+
+
+### Newsletter aberta antes do jogo ###
+-- newsletter_open_before_game vs played_next_day -- chi2=1.94, p=0.163254, dof=1
+                                 rate      n
+newsletter_open_before_game                 
+False                        0.222840  32198
+True                         0.215397   7651
+
+
+### Resultado (win/lose) ###
+-- result vs played_next_day -- chi2=1.83, p=0.175887, dof=1
+            rate      n
+result                 
+lose    0.224915  15806
+win     0.219107  24043
+
+
+### Numero de tentativas ###
+-- attempts vs played_next_day -- mean(True)=3.61 mean(False)=3.57 t=1.62 p=0.105794
+
+
+### Tempo de jogo ###
+-- time_to_complete_sec vs played_next_day -- mean(True)=271.58 mean(False)=269.45 t=1.45 p=0.146116
+
+
+### Setor (sector) - apenas usuarios com perfil ###
+-- sector vs played_next_day -- chi2=12.25, p=0.092483, dof=7
+               rate     n
+sector                   
+educação   0.236025  3381
+tech       0.232978  6095
+varejo     0.227348  2406
+outros     0.217726  5066
+saúde      0.217118  2547
+finanças   0.216144  3766
+marketing  0.212315  2030
+direito    0.209286  1400
+
+
+### Faixa salarial ###
+-- salary_range vs played_next_day -- chi2=4.66, p=0.323855, dof=4
+                    rate     n
+salary_range                  
+R$2k-R$4k       0.231602  5082
+até R$2k        0.229374  3309
+acima de R$10k  0.227594  2834
+R$4k-R$6k       0.219046  5387
+R$6k-R$10k      0.215628  3673
+
+
+### Pede food delivery ###
+-- orders_food_delivery vs played_next_day -- chi2=7.12, p=0.007626, dof=1
+                          rate      n
+orders_food_delivery                 
+True                  0.225981  23055
+False                 0.205996   3636
+
+
+### Frequencia food delivery/semana ###
+-- food_delivery_freq_week vs played_next_day -- mean(True)=2.58 mean(False)=2.52 t=1.96 p=0.050232
+
+
+### Assinante newsletter (perfil) ###
+-- newsletter_subscriber vs played_next_day -- chi2=5.15, p=0.023293, dof=1
+                           rate      n
+newsletter_subscriber                 
+True                   0.225513  23227
+False                  0.208141   3464
+
+
+### Joga outros jogos de palavras ###
+-- plays_other_word_games vs played_next_day -- chi2=0.03, p=0.854172, dof=1
+                            rate      n
+plays_other_word_games                 
+True                    0.223803  12368
+False                   0.222789  14323
+
+
+
+==========================================================================================
+ANALISE 2: ACTIVE_D30 (retencao 30 dias)
+==========================================================================================
+
+### Horario de jogo ###
+-- hour_bucket vs active_d30 -- chi2=274.63, p=0.000000, dof=4
+                      rate      n
+hour_bucket                      
+manha cedo(6-9)   0.375647  12557
+tarde(13-17)      0.302645   6919
+madrugada(22-23)  0.296950   8328
+noite(18-21)      0.287550  10659
+manha(10-12)      0.272727   1386
+
+
+### Streak day ###
+-- streak_day vs active_d30 -- mean(True)=1.29 mean(False)=1.29 t=0.21 p=0.833390
+
+
+### Newsletter aberta antes do jogo ###
+-- newsletter_open_before_game vs active_d30 -- chi2=149.97, p=0.000000, dof=1
+                                 rate      n
+newsletter_open_before_game                 
+True                         0.378121   7651
+False                        0.305423  32198
+
+
+### Resultado (win/lose) ###
+-- result vs active_d30 -- chi2=14.54, p=0.000137, dof=1
+            rate      n
+result                 
+win     0.326623  24043
+lose    0.308364  15806
+
+
+### Played next day -> active d30 ###
+-- played_next_day vs active_d30 -- chi2=6359.40, p=0.000000, dof=1
+                     rate      n
+played_next_day                 
+True             0.668707   8823
+False            0.220041  31026
+
+
+### Device ###
+-- device vs active_d30 -- chi2=0.22, p=0.638012, dof=1
+             rate      n
+device                  
+iOS      0.320407  21738
+Android  0.318149  18111
+
+
+### Setor ###
+-- sector vs active_d30 -- chi2=7.83, p=0.347386, dof=7
+               rate     n
+sector                   
+educação   0.337770  3381
+varejo     0.330840  2406
+marketing  0.324138  2030
+tech       0.323216  6095
+finanças   0.319703  3766
+direito    0.317143  1400
+outros     0.315239  5066
+saúde      0.309776  2547
+
+
+### Faixa salarial ###
+-- salary_range vs active_d30 -- chi2=6.79, p=0.147263, dof=4
+                    rate     n
+salary_range                  
+até R$2k        0.329707  3309
+R$2k-R$4k       0.326643  5082
+R$4k-R$6k       0.323557  5387
+R$6k-R$10k      0.312007  3673
+acima de R$10k  0.304869  2834
+
+
+### Food delivery ###
+-- orders_food_delivery vs active_d30 -- chi2=0.00, p=0.998752, dof=1
+                          rate      n
+orders_food_delivery                 
+True                  0.322229  23055
+False                 0.322057   3636
+
+-- food_delivery_freq_week vs active_d30 -- mean(True)=2.54 mean(False)=2.53 t=0.54 p=0.589307
+
+
+### Newsletter subscriber (perfil) ###
+-- newsletter_subscriber vs active_d30 -- chi2=2.15, p=0.142571, dof=1
+                           rate      n
+newsletter_subscriber                 
+True                   0.323847  23227
+False                  0.311201   3464
+
+
+### typical_play_time (perfil declarado) vs active_d30 ###
+-- typical_play_time vs active_d30 -- chi2=182.87, p=0.000000, dof=3
+                       rate     n
+typical_play_time                
+morning            0.378163  8536
+afternoon          0.304173  5704
+night              0.294938  5235
+evening            0.290050  7216

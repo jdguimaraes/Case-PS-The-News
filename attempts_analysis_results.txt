@@ -1,0 +1,93 @@
+==========================================================================================
+ANALISE COMPLEMENTAR 1: TABELA DE TENTATIVAS (attempts) x RETENCAO
+Motivo: a aba palavritas_attempts (146k linhas) traz o detalhe de cada palpite -
+numero da tentativa, letras certas, posicoes certas. Ate aqui so usamos o resultado
+binario (ganhou/perdeu). Aqui testamos se a EXPERIENCIA dentro do jogo (velocidade
+de acerto, quase-acerto na derrota) tambem explica o retorno.
+==========================================================================================
+
+### Sessoes ganhas: tentativas usadas para ganhar (1=acertou de primeira ... 6=ganhou no limite) ###
+result
+win     24043
+lose    15806
+Name: count, dtype: int64
+
+sessoes consideradas vitoria: 24043 de 39849
+-- attempts_used vs played_next_day -- mean(True)=2.01 mean(False)=1.99 t=1.17 p=0.240783
+
+-- attempts_used vs played_next_day -- chi2=11.75, p=0.162914, dof=8
+                   rate     n
+attempts_used                
+4.0            0.750000     4
+8.0            0.500000     4
+9.0            0.500000     2
+5.0            0.333333     3
+3.0            0.222614  7933
+2.0            0.218084  8029
+1.0            0.216129  8060
+6.0            0.000000     2
+10.0           0.000000     2
+
+
+### Sessoes perdidas: quao perto o usuario chegou (max correct_positions na ultima tentativa) ###
+sessoes consideradas derrota: 15806
+-- correct_positions vs played_next_day -- mean(True)=0.54 mean(False)=0.55 t=-0.87 p=0.386658
+
+-- near_miss vs played_next_day -- chi2=1.24, p=0.265971, dof=1
+               rate      n
+near_miss                 
+False      0.225125  15769
+True       0.135135     37
+
+
+### Mesmo teste para active_d30 (efeito de longo prazo da experiencia de jogo) ###
+-- attempts_used vs active_d30 -- chi2=4.85, p=0.773650, dof=8
+                   rate     n
+attempts_used                
+5.0            0.666667     3
+8.0            0.500000     4
+10.0           0.500000     2
+1.0            0.328784  8060
+2.0            0.326815  8029
+3.0            0.324089  7933
+4.0            0.250000     4
+6.0            0.000000     2
+9.0            0.000000     2
+
+-- near_miss vs active_d30 -- chi2=3.06, p=0.080165, dof=1
+               rate      n
+near_miss                 
+False      0.308707  15769
+True       0.162162     37
+
+
+
+==========================================================================================
+ANALISE COMPLEMENTAR 2: EFEITO COMPOSTO PARA D+1
+Motivo: para D30 achamos um efeito composto forte (newsletter aberta + voltou no D+1).
+Testamos aqui se um composto equivalente existe tambem para o D+1 isoladamente -
+ex.: jogar de manha E ganhar o jogo no mesmo dia.
+==========================================================================================
+
+### Ganhou x jogou de manha -> played_next_day ###
+                   mean  count
+won   morning                 
+False False    0.226265  12092
+      True     0.220517   3714
+True  False    0.219126  13814
+      True     0.219083  10229
+
+### Newsletter aberta x ganhou -> played_next_day ###
+                                       mean  count
+newsletter_open_before_game won                   
+False                       False  0.226201  14045
+                            True   0.220239  18153
+True                        False  0.214651   1761
+                            True   0.215620   5890
+
+### Newsletter aberta x jogou de manha -> played_next_day ###
+                                         mean  count
+newsletter_open_before_game morning                 
+False                       False    0.222458  25906
+                            True     0.224412   6292
+True                        True     0.215397   7651

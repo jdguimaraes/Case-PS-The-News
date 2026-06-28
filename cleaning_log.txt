@@ -1,0 +1,25 @@
+=== SESSIONS: start 41157 rows ===
+1. Dropped 1198 exact duplicate session rows -> 39959
+2. Normalized device casing: {'iOS': 21794, 'Android': 18165}
+3. Parsed word_date (mixed YYYY-MM-DD / DD/MM/YYYY): 0 unparseable
+4. Nulling 40 non-positive time_to_complete_sec values (kept rows)
+5. Found 90 rows with attempts outside 1-6 (impossible per game rules: max 6 tries)
+   Found 60 rows with null result
+   Dropping union of both = 110 corrupted rows (0.28%)
+   Sessions remaining: 39849
+6. INFO ONLY: 62 sessions where sessions.attempts != max(attempt_number) in attempts table (~0.16%) - left as-is, flagged as known limitation
+
+=== SESSIONS clean final: 39849 rows (dropped 1308 total, 3.2%) ===
+
+ATTEMPTS: dropped 752 exact duplicate rows -> 146518
+ATTEMPTS: 80 rows with guess length != 5 (corrupted) - dropping
+
+=== USER_PROFILE: start 800 rows ===
+Fixed mojibake (corrupted UTF-8 bytes) in sector/salary_range/job_role/state via manual mapping
+Normalized job_role casing: ['Analista', 'Analista De Dados', 'Analista Sênior', 'Consultor', 'Consultor De Dados', 'Consultor Sênior', 'Coordenador', 'Coordenador De Dados', 'Coordenador Sênior', 'Desenvolvedor', 'Desenvolvedor De Dados', 'Desenvolvedor Sênior', 'Designer', 'Designer De Dados', 'Designer Sênior', 'Diretor', 'Diretor De Dados', 'Diretor Sênior', 'Engenheiro', 'Engenheiro De Dados', 'Engenheiro Sênior', 'Estudante', 'Estudante De Dados', 'Estudante Sênior', 'Gerente', 'Gerente De Dados', 'Gerente Sênior', 'Professor', 'Professor De Dados', 'Professor Sênior']
+Standardized orders_food_delivery to boolean: {True: 685, False: 115}
+Missing values remaining: age_range=117, city=297, salary_range=193 (kept as NaN - legitimate survey non-response)
+
+NOTE: 1200 unique users in sessions vs 800 in profile -> 400 users have NO profile data (only 800/1200 answered survey). Profile-based cuts only cover ~67% of users.
+
+Saved cleaned CSVs.

@@ -1,0 +1,801 @@
+user_id,age_range,state,city,salary_range,job_role,sector,company_size,orders_food_delivery,food_delivery_freq_week,food_delivery_platform,primary_device,plays_other_word_games,typical_play_time,newsletter_subscriber
+fe2e4f159653f26f,,MG,,R$4k-R$6k,Consultor,finanças,pequena,True,5,Rappi,Android,True,afternoon,True
+4d89d721da20cbc3,35-44,MG,Rio de Janeiro,R$4k-R$6k,Analista,educação,multinacional,True,3,Ambos,iOS,True,morning,True
+91bf47f1274e23a8,25-34,PB,,,Coordenador,tech,pequena,True,3,Nenhum,Android,True,morning,True
+4efe31b67538c37f,25-34,PB,,até R$2k,Gerente,finanças,grande,True,5,Nenhum,iOS,False,afternoon,False
+d6af92f33a83c685,18-24,RN,Belo Horizonte,até R$2k,Consultor,outros,pequena,False,0,Nenhum,Android,True,evening,False
+ea768abe252a9c4d,,PE,,R$2k-R$4k,Consultor Sênior,outros,média,True,7,Rappi,iOS,False,evening,True
+ae8b6125edd6a029,35-44,MS,,R$2k-R$4k,Desenvolvedor,outros,grande,False,0,Nenhum,Android,False,morning,True
+4517373ef63e1ba1,35-44,SC,,acima de R$10k,Coordenador,varejo,grande,False,0,Nenhum,Android,True,morning,True
+32af28a305491283,45+,AL,Belo Horizonte,,Estudante,varejo,média,True,7,Ambos,Android,True,morning,True
+176df4d7bd105b74,45+,MS,Brasília,R$6k-R$10k,Analista,educação,MEI/micro,True,7,Rappi,iOS,True,night,True
+b9db263d2c7d92d4,,GO,Curitiba,até R$2k,Professor,tech,grande,True,1,Rappi,Android,False,night,True
+c0f08bbb1f3c2556,18-24,RJ,São Paulo,R$6k-R$10k,Consultor,varejo,multinacional,True,5,Ambos,iOS,True,evening,True
+fec201f39f00456b,35-44,AM,,R$4k-R$6k,Consultor Sênior,educação,multinacional,False,0,Nenhum,Android,True,afternoon,True
+5a8f7b12015bd3a4,35-44,CE,Curitiba,R$6k-R$10k,Analista,finanças,MEI/micro,True,5,Nenhum,Android,False,afternoon,False
+57184bd24165a3fe,35-44,RJ,Brasília,até R$2k,Coordenador,educação,média,False,0,Nenhum,iOS,True,morning,True
+b5a6b71f86e450d4,35-44,PB,Belo Horizonte,R$2k-R$4k,Designer,outros,MEI/micro,False,0,Nenhum,Android,True,evening,True
+9afdec5d404654e0,18-24,PR,,,Estudante,tech,multinacional,True,2,Ambos,Android,False,evening,True
+006ebf544f052ea8,45+,SC,Belo Horizonte,acima de R$10k,Diretor De Dados,outros,média,True,1,iFood,Android,False,morning,True
+9666773dcb717c3e,25-34,MA,Rio de Janeiro,,Consultor De Dados,tech,grande,True,3,iFood,iOS,False,evening,True
+7218bdab8623dad1,25-34,RJ,Belo Horizonte,,Coordenador,tech,MEI/micro,True,3,Rappi,Android,False,evening,True
+d9d132e37b4fdea8,25-34,MS,Brasília,R$6k-R$10k,Designer,educação,MEI/micro,False,0,Nenhum,iOS,False,evening,False
+ff1a577179e025d1,35-44,MG,,,Professor,finanças,grande,True,3,Rappi,Android,False,morning,True
+a287e4bcef425e7e,,RN,,R$4k-R$6k,Estudante,finanças,grande,True,1,Nenhum,iOS,False,afternoon,True
+075ea90b92bc8653,35-44,CE,Rio de Janeiro,R$2k-R$4k,Desenvolvedor Sênior,direito,grande,True,1,Nenhum,Android,True,morning,True
+466fbcee3f6504a1,35-44,PB,,até R$2k,Designer,varejo,média,True,1,iFood,iOS,True,afternoon,True
+0934362bcd890fa1,18-24,PB,Curitiba,acima de R$10k,Desenvolvedor,varejo,média,True,1,Rappi,iOS,False,evening,True
+1bf9e42a84bae847,45+,MA,Porto Alegre,,Gerente De Dados,outros,média,True,5,Ambos,Android,True,evening,True
+7c9e290948dca199,25-34,AM,Curitiba,R$2k-R$4k,Engenheiro,educação,pequena,True,2,iFood,iOS,True,evening,True
+d003c2be84ce5344,25-34,MA,Rio de Janeiro,R$4k-R$6k,Analista,tech,MEI/micro,False,0,Nenhum,Android,True,evening,True
+13ebef24b74d34c0,,SP,Rio de Janeiro,R$4k-R$6k,Professor,finanças,MEI/micro,True,7,Ambos,Android,True,morning,True
+c118d0a08ae175b1,,CE,,R$4k-R$6k,Estudante,tech,MEI/micro,False,0,Nenhum,iOS,False,evening,False
+fe30f47700d90c7b,45+,RJ,Brasília,R$4k-R$6k,Coordenador,marketing,grande,False,0,Nenhum,iOS,True,morning,True
+3ac73d9b20f35050,25-34,RS,São Paulo,R$6k-R$10k,Gerente,saúde,pequena,True,2,Nenhum,iOS,False,evening,True
+037158b9da1ac2af,25-34,CE,Brasília,R$2k-R$4k,Coordenador,educação,média,True,1,iFood,Android,False,morning,True
+61a7a38bcb334eec,45+,MT,Curitiba,R$6k-R$10k,Analista,educação,grande,False,0,Nenhum,iOS,False,morning,True
+af380479c757145c,35-44,PR,Rio de Janeiro,R$2k-R$4k,Gerente De Dados,tech,MEI/micro,True,1,Nenhum,Android,True,evening,True
+4008f6a03708cd1a,25-34,RS,São Paulo,até R$2k,Coordenador,finanças,MEI/micro,True,3,Rappi,iOS,False,night,True
+107e0d87868477b3,35-44,RS,Porto Alegre,acima de R$10k,Consultor,educação,média,True,2,Ambos,Android,False,night,True
+7f713507c58ae4b3,35-44,AL,São Paulo,R$4k-R$6k,Professor,outros,multinacional,True,3,iFood,iOS,False,morning,False
+e6d4bef911ec955b,45+,RN,Brasília,R$6k-R$10k,Diretor,finanças,multinacional,True,1,Rappi,iOS,True,night,True
+3fa8c6958952a52d,25-34,PB,Porto Alegre,,Professor,outros,MEI/micro,False,0,Nenhum,iOS,False,morning,True
+74608d7ab6d097ed,25-34,CE,,R$6k-R$10k,Professor,tech,MEI/micro,False,0,Nenhum,Android,False,evening,False
+0df2ed0c5328752c,18-24,RN,,R$4k-R$6k,Analista,marketing,MEI/micro,True,5,Rappi,Android,True,night,True
+d78d770405725a60,25-34,BA,,R$6k-R$10k,Consultor,saúde,grande,True,7,Ambos,iOS,True,evening,True
+ed88887efb29f30d,35-44,AL,Brasília,até R$2k,Coordenador De Dados,saúde,multinacional,True,7,Rappi,Android,False,evening,True
+fc5ca25cae03ece6,35-44,PR,Curitiba,R$6k-R$10k,Desenvolvedor,outros,média,True,3,Nenhum,Android,True,night,True
+e935045f3737df38,35-44,RJ,,R$4k-R$6k,Consultor,outros,MEI/micro,True,1,Ambos,iOS,True,afternoon,True
+e7abdd59004582d7,18-24,AM,,,Gerente,outros,MEI/micro,True,3,Nenhum,Android,False,morning,True
+0e4a61a1a9a316e7,35-44,MG,Brasília,R$2k-R$4k,Analista,tech,multinacional,True,3,Nenhum,Android,True,night,False
+0e0ac1e0d8f2d92a,35-44,RJ,,R$2k-R$4k,Designer,finanças,média,True,1,iFood,iOS,False,afternoon,True
+321555d0183a1241,35-44,RS,Belo Horizonte,acima de R$10k,Gerente,marketing,MEI/micro,True,3,Ambos,iOS,False,evening,True
+ffb7923f855e5571,35-44,SE,Porto Alegre,R$4k-R$6k,Engenheiro,tech,MEI/micro,True,2,Ambos,Android,False,night,True
+66b0a5861a08e809,35-44,RJ,,R$4k-R$6k,Engenheiro,finanças,grande,True,5,Rappi,Android,True,afternoon,True
+c72af79f4ed67b07,25-34,PE,São Paulo,R$4k-R$6k,Desenvolvedor Sênior,outros,média,True,3,iFood,Android,False,night,True
+d015a71c44d66779,25-34,SE,,,Engenheiro De Dados,saúde,pequena,False,0,Nenhum,iOS,True,morning,True
+2a456f4dd9387ace,,CE,Brasília,R$4k-R$6k,Estudante,varejo,média,True,5,Rappi,iOS,False,afternoon,True
+72c02763d4450194,45+,MS,Brasília,acima de R$10k,Diretor De Dados,educação,multinacional,False,0,Nenhum,iOS,False,evening,True
+b2a934c6d3609ec8,35-44,PR,Porto Alegre,,Consultor,varejo,MEI/micro,True,5,Rappi,Android,True,night,True
+45ac841acd25b151,18-24,RS,Curitiba,R$6k-R$10k,Designer Sênior,finanças,grande,True,3,iFood,Android,False,morning,True
+de391b1c8620d927,25-34,RN,São Paulo,R$2k-R$4k,Analista,direito,grande,True,5,Nenhum,iOS,True,night,True
+36395741cbd0e24d,,MG,Porto Alegre,R$2k-R$4k,Desenvolvedor,tech,pequena,True,2,Rappi,iOS,False,evening,True
+ca0ee855fb5ee210,25-34,PB,Porto Alegre,R$6k-R$10k,Analista,saúde,pequena,True,7,iFood,Android,False,afternoon,True
+145c45d59cb72cdb,45+,PR,,R$4k-R$6k,Analista,direito,MEI/micro,True,2,iFood,iOS,True,morning,True
+6c3cdf1c7429afc0,25-34,RS,,R$6k-R$10k,Estudante,direito,média,True,5,iFood,iOS,False,morning,True
+827008040dfdd3af,25-34,MS,São Paulo,R$4k-R$6k,Engenheiro,outros,grande,True,3,Ambos,iOS,True,morning,True
+86c0dd6f0eaa97e9,35-44,São Paulo,Rio de Janeiro,até R$2k,Professor,tech,média,True,1,Ambos,Android,True,evening,True
+2fac7d372ab5aa8f,,PR,,até R$2k,Gerente,tech,MEI/micro,True,2,Nenhum,Android,False,night,True
+d84f4e16db7257dc,25-34,MA,Rio de Janeiro,R$2k-R$4k,Gerente,outros,grande,True,2,Rappi,iOS,True,morning,False
+71399b3ae816d0a7,35-44,MG,,,Diretor,tech,MEI/micro,True,1,Nenhum,Android,True,morning,True
+96df91e6ccb1dccf,,MA,Porto Alegre,até R$2k,Estudante,tech,MEI/micro,True,2,Ambos,Android,False,evening,True
+1b39eff82983a6f5,25-34,RS,,R$6k-R$10k,Designer,saúde,pequena,True,3,Rappi,Android,False,morning,True
+85de82a1844b25a4,35-44,SP,,acima de R$10k,Gerente,tech,média,True,1,Rappi,iOS,True,evening,True
+88a75b0f5233c3b2,18-24,DF,Porto Alegre,até R$2k,Engenheiro Sênior,tech,pequena,True,2,Nenhum,iOS,True,morning,True
+515872cd13042b6f,18-24,MA,Rio de Janeiro,acima de R$10k,Analista,finanças,pequena,True,1,iFood,Android,False,afternoon,True
+65b4952ddfe15343,,RJ,São Paulo,R$2k-R$4k,Professor,direito,pequena,True,3,Nenhum,iOS,False,evening,True
+00f3b528c9a28fc1,,BA,,,Professor,tech,pequena,True,2,Ambos,Android,True,morning,True
+6e941da4bd5b8eab,35-44,AL,,acima de R$10k,Consultor,finanças,pequena,False,0,Nenhum,iOS,False,morning,True
+76c09fe80f7dbbcc,25-34,ES,,R$2k-R$4k,Gerente Sênior,tech,média,True,3,Rappi,iOS,True,morning,False
+877bf2642bcfd366,,DF,Brasília,acima de R$10k,Designer,finanças,pequena,True,7,Nenhum,iOS,False,night,True
+a6ac93c77e9d5195,45+,AM,Belo Horizonte,R$6k-R$10k,Engenheiro,marketing,multinacional,True,3,Nenhum,iOS,False,morning,True
+3060225fe0ed665a,35-44,MG,São Paulo,R$2k-R$4k,Analista Sênior,saúde,MEI/micro,True,7,Rappi,Android,False,afternoon,True
+2c009dc60758527e,,GO,Curitiba,R$4k-R$6k,Analista,outros,multinacional,False,0,Nenhum,Android,False,afternoon,True
+7c39e117acec6152,18-24,RJ,,acima de R$10k,Designer Sênior,tech,média,True,2,Ambos,Android,False,afternoon,True
+6a3cf8514ede97b6,,PE,Belo Horizonte,até R$2k,Gerente,outros,MEI/micro,False,0,Nenhum,Android,False,afternoon,True
+108021f428048ebe,25-34,BA,,,Gerente,outros,pequena,False,0,Nenhum,iOS,True,night,True
+0e04d60bea0991bc,25-34,DF,Rio de Janeiro,,Gerente,varejo,grande,True,2,iFood,iOS,False,morning,True
+b98e24fa7de79072,25-34,MT,,R$2k-R$4k,Diretor,educação,pequena,True,3,Rappi,iOS,True,evening,True
+333f1dbffcca118c,35-44,AM,Rio de Janeiro,,Designer,saúde,MEI/micro,True,7,Nenhum,iOS,True,night,False
+92a699ffc698740e,,MT,Curitiba,R$4k-R$6k,Estudante,educação,média,True,1,Ambos,iOS,True,morning,True
+e16dab4b322b32e0,45+,AM,Rio de Janeiro,R$4k-R$6k,Desenvolvedor,outros,pequena,True,1,Ambos,iOS,True,night,True
+6c8b4fe785d786c6,25-34,PB,Brasília,R$2k-R$4k,Gerente,saúde,pequena,True,2,iFood,Android,True,night,True
+8664f4195fb69097,18-24,RJ,Belo Horizonte,R$2k-R$4k,Professor,varejo,MEI/micro,True,2,Nenhum,iOS,True,afternoon,False
+c9023ccc8ed57e4b,45+,PE,Curitiba,R$4k-R$6k,Diretor,outros,média,True,5,Ambos,iOS,True,afternoon,True
+4abde313c7bc512c,45+,PE,Belo Horizonte,R$2k-R$4k,Diretor,finanças,MEI/micro,True,1,Nenhum,iOS,True,morning,True
+10109dc2ce43acdd,,SP,Curitiba,R$6k-R$10k,Coordenador,marketing,grande,True,2,Ambos,iOS,True,evening,True
+b277277b350afcb2,45+,SE,Porto Alegre,R$2k-R$4k,Diretor,tech,MEI/micro,True,3,Ambos,iOS,True,morning,True
+cd480e6dbba076d1,25-34,PB,,acima de R$10k,Diretor,outros,grande,True,5,Rappi,iOS,False,evening,True
+05558efc5ada8459,18-24,DF,Rio de Janeiro,,Coordenador,marketing,multinacional,True,3,iFood,Android,True,night,True
+46ace4312a5bf536,45+,DF,,R$4k-R$6k,Coordenador De Dados,tech,multinacional,True,5,iFood,iOS,True,evening,True
+3ed45f49f0869f2f,,AL,,R$2k-R$4k,Designer,finanças,pequena,True,3,iFood,iOS,True,evening,False
+4dfc64edf6ae0a50,18-24,PE,Porto Alegre,R$6k-R$10k,Designer,tech,pequena,True,5,Nenhum,Android,False,evening,True
+30a00bd02df52c7e,35-44,RN,Rio de Janeiro,R$4k-R$6k,Analista,saúde,grande,True,1,Rappi,Android,False,evening,True
+57a3195a73eb2690,18-24,BA,,,Designer,educação,média,True,3,iFood,iOS,True,evening,True
+fffc498f51b5661c,35-44,MA,Belo Horizonte,até R$2k,Consultor,educação,média,True,3,Ambos,Android,False,night,True
+bc06cb845ccd3a36,,SP,,até R$2k,Estudante,tech,multinacional,False,0,Nenhum,iOS,True,morning,False
+5760054d61ccf1ca,25-34,PB,Curitiba,até R$2k,Professor,saúde,MEI/micro,True,3,Nenhum,iOS,False,evening,False
+40dd27a6ad421d0f,,MG,São Paulo,R$4k-R$6k,Coordenador,saúde,média,True,2,Nenhum,Android,False,night,True
+c57942e11d454519,25-34,SE,Brasília,R$6k-R$10k,Estudante,finanças,grande,True,2,Rappi,Android,False,night,True
+63d0ca1519a56124,35-44,MG,Curitiba,,Gerente Sênior,finanças,pequena,True,3,Nenhum,iOS,False,morning,True
+d6f0b05fdfb936c7,35-44,PR,,R$2k-R$4k,Consultor,saúde,grande,True,3,Rappi,Android,False,night,False
+5f304cfced6f6414,,DF,Curitiba,R$2k-R$4k,Coordenador,finanças,pequena,False,0,Nenhum,iOS,False,morning,True
+6c94eedc029cfac2,18-24,AL,Brasília,R$6k-R$10k,Gerente,tech,pequena,True,1,Rappi,iOS,True,afternoon,True
+fdfbb1e414f5d4ed,25-34,PR,Belo Horizonte,,Diretor,outros,pequena,True,3,iFood,iOS,False,afternoon,True
+7ffe290f5669971b,35-44,MG,Brasília,R$6k-R$10k,Coordenador,marketing,multinacional,True,2,iFood,iOS,False,morning,False
+3bcc09e3c69579d7,,MS,Belo Horizonte,,Diretor Sênior,marketing,grande,True,3,Rappi,iOS,False,morning,True
+e01cd12c83df90c0,35-44,AL,São Paulo,,Coordenador,outros,multinacional,True,3,iFood,Android,True,morning,True
+581252ff1d5b1295,25-34,ES,,acima de R$10k,Engenheiro,finanças,MEI/micro,False,0,Nenhum,iOS,False,evening,True
+f8b5f2c1fe93e798,45+,BA,Belo Horizonte,,Engenheiro,educação,pequena,True,2,Nenhum,Android,False,morning,True
+e6401223a53ed190,25-34,MG,Brasília,R$4k-R$6k,Analista,varejo,grande,False,0,Nenhum,iOS,False,night,True
+1505f2e8c3599824,,SC,Porto Alegre,,Desenvolvedor,tech,grande,True,5,Rappi,Android,True,night,True
+331c7cfbe3991b88,35-44,BA,,R$6k-R$10k,Professor,tech,MEI/micro,True,1,iFood,Android,True,afternoon,True
+dc6e1f8ff842c5f5,25-34,MA,Curitiba,R$4k-R$6k,Diretor Sênior,marketing,média,True,1,Rappi,iOS,False,night,True
+80887a355d8875e1,45+,MG,,R$4k-R$6k,Engenheiro,finanças,grande,True,2,iFood,Android,False,evening,True
+df107b8510023747,35-44,PE,,até R$2k,Desenvolvedor,outros,multinacional,True,1,Nenhum,Android,False,afternoon,False
+63f08ecf623da206,25-34,BA,São Paulo,,Desenvolvedor,outros,MEI/micro,True,1,Ambos,iOS,False,night,True
+23e395e3f0d3d99e,25-34,MA,Rio de Janeiro,acima de R$10k,Analista,outros,pequena,True,1,iFood,iOS,True,morning,True
+f11f264586ca1dce,18-24,MA,,,Coordenador,educação,multinacional,True,1,Ambos,iOS,False,morning,True
+0f8fcb0e14f03ab1,35-44,AM,,R$6k-R$10k,Professor,tech,multinacional,True,3,Rappi,iOS,False,night,True
+108ccfc200689fc8,35-44,SP,São Paulo,R$6k-R$10k,Designer,saúde,multinacional,True,5,Nenhum,Android,True,night,True
+bc7b2d73613ff33d,35-44,AL,,acima de R$10k,Designer Sênior,tech,MEI/micro,True,2,Nenhum,iOS,True,morning,True
+f54370c879525d12,25-34,ES,,R$4k-R$6k,Diretor,saúde,pequena,True,3,iFood,Android,False,night,True
+015cdf7c949af151,45+,SE,Brasília,R$4k-R$6k,Estudante,outros,média,False,0,Nenhum,iOS,False,afternoon,True
+29ee0a8e87fba77d,45+,CE,Curitiba,R$2k-R$4k,Gerente,outros,MEI/micro,True,1,iFood,iOS,False,evening,True
+5a9ca732e1eb53da,18-24,PE,,R$4k-R$6k,Designer,finanças,pequena,True,5,Ambos,Android,False,evening,True
+3abcdfc7c3b004d7,45+,AM,Rio de Janeiro,até R$2k,Engenheiro,tech,média,True,1,Nenhum,iOS,False,afternoon,True
+d22c0a0d6a2d6db6,,PR,,R$4k-R$6k,Professor,finanças,média,True,3,iFood,Android,False,afternoon,False
+9fe16955f9adc8b3,25-34,MT,Curitiba,até R$2k,Professor,saúde,grande,True,5,Ambos,iOS,True,night,False
+5ce4eeddfd77553b,18-24,SE,Brasília,acima de R$10k,Engenheiro,outros,MEI/micro,True,2,iFood,iOS,False,evening,True
+9db582aeebf842f7,25-34,GO,Rio de Janeiro,R$4k-R$6k,Desenvolvedor,direito,multinacional,True,1,Ambos,iOS,False,evening,True
+50eaa3f36a60c821,35-44,GO,Porto Alegre,até R$2k,Diretor,saúde,média,True,1,Nenhum,iOS,False,night,True
+432a94a2737206b6,45+,PE,,R$4k-R$6k,Designer,finanças,pequena,False,0,Nenhum,iOS,False,morning,True
+59ad3397e5411b66,18-24,MG,São Paulo,R$2k-R$4k,Desenvolvedor,outros,grande,True,7,iFood,iOS,True,night,True
+560dc27139e6f1ef,18-24,PB,Rio de Janeiro,,Professor,tech,multinacional,True,1,Ambos,Android,True,morning,True
+f3f5cc32baa2b6f8,25-34,PB,Rio de Janeiro,,Coordenador,saúde,MEI/micro,True,1,Rappi,iOS,True,night,True
+d9d359c7cf4e1077,25-34,GO,,R$4k-R$6k,Engenheiro,marketing,pequena,True,7,Nenhum,iOS,False,evening,False
+dd4d9482a715030f,25-34,GO,,,Professor,educação,pequena,True,2,Rappi,Android,True,morning,True
+1b0a2089b80529f4,18-24,SC,Curitiba,acima de R$10k,Engenheiro,marketing,grande,True,2,Nenhum,iOS,True,afternoon,True
+49fb1a084e96add8,25-34,SC,,,Analista,tech,grande,False,0,Nenhum,iOS,True,morning,True
+2ef7bb7613b879d7,25-34,SE,,,Desenvolvedor,finanças,grande,False,0,Nenhum,iOS,True,afternoon,False
+465e66d70e20ebbe,25-34,DF,São Paulo,acima de R$10k,Coordenador,outros,média,True,7,Nenhum,Android,False,evening,False
+3cb1e9424a5e2b5f,45+,RN,Rio de Janeiro,R$4k-R$6k,Diretor,tech,grande,True,5,Nenhum,Android,False,morning,False
+b3ad3e91e625cbf9,,MG,,R$6k-R$10k,Analista,tech,média,True,3,Rappi,iOS,False,morning,False
+33c031a403b05c98,18-24,PB,Belo Horizonte,R$4k-R$6k,Estudante,outros,média,False,0,Nenhum,iOS,False,afternoon,True
+4ee134324076173b,25-34,ES,Curitiba,,Estudante,varejo,MEI/micro,True,5,Nenhum,Android,False,afternoon,True
+b968a579bd0c4b8a,18-24,CE,Porto Alegre,,Estudante,outros,grande,True,5,Ambos,Android,False,evening,False
+40e125f528a28523,25-34,PB,,R$2k-R$4k,Desenvolvedor,marketing,grande,True,7,Rappi,Android,True,afternoon,True
+d87b2e3924f53bf7,35-44,MG,Porto Alegre,R$4k-R$6k,Consultor,outros,multinacional,True,1,Nenhum,iOS,True,afternoon,True
+8a14beae4a808df5,35-44,MT,Curitiba,R$2k-R$4k,Gerente,saúde,grande,True,7,Nenhum,iOS,True,morning,True
+a338ac20148e9794,25-34,BA,,R$2k-R$4k,Gerente,finanças,pequena,True,1,Ambos,Android,True,evening,True
+600539eb4c4270a3,25-34,BA,São Paulo,,Gerente,tech,pequena,True,1,iFood,Android,True,afternoon,True
+9c2e6ade48ea4dea,25-34,SC,Porto Alegre,,Diretor De Dados,saúde,média,True,3,Nenhum,iOS,True,night,True
+b3a4f9c4637ad989,25-34,MG,São Paulo,R$6k-R$10k,Analista,finanças,média,True,2,iFood,Android,True,evening,True
+24d89dda05809dd1,25-34,SP,,,Coordenador,tech,multinacional,True,2,Nenhum,Android,False,evening,True
+9a8d4e8ee28d9789,35-44,ES,Curitiba,até R$2k,Gerente,finanças,média,True,2,Rappi,Android,False,evening,True
+959d50a57149a2f0,25-34,RJ,,,Consultor De Dados,direito,pequena,False,0,Nenhum,Android,False,night,True
+2b0bad55f95cc8c8,25-34,CE,Belo Horizonte,R$2k-R$4k,Desenvolvedor,outros,multinacional,True,2,iFood,iOS,True,evening,True
+3516b73ca7dc5022,25-34,MA,,,Diretor,finanças,multinacional,True,7,iFood,Android,True,night,True
+a9f6bf92335c93ec,18-24,RN,Porto Alegre,,Consultor,outros,média,True,2,iFood,iOS,False,afternoon,True
+04635aaf2d59584d,25-34,SC,,R$4k-R$6k,Diretor,outros,média,True,3,Ambos,iOS,True,afternoon,True
+1f4932e8e50f10e2,25-34,MT,,,Professor,outros,multinacional,True,1,iFood,iOS,False,morning,True
+a04ad6a5edbcbf81,18-24,MA,Belo Horizonte,até R$2k,Designer,outros,grande,True,5,Nenhum,Android,False,morning,True
+de9cb9e302ac9ca4,35-44,GO,,R$4k-R$6k,Estudante,tech,multinacional,True,3,Nenhum,iOS,True,afternoon,True
+0691e6f5b2646e8f,25-34,ES,Porto Alegre,R$6k-R$10k,Consultor,finanças,multinacional,True,5,Nenhum,iOS,True,afternoon,True
+0f40da464d1f48fd,,CE,São Paulo,R$4k-R$6k,Estudante,finanças,grande,False,0,Nenhum,Android,True,morning,True
+83b68c2830588bf8,25-34,SC,São Paulo,R$6k-R$10k,Coordenador,varejo,MEI/micro,False,0,Nenhum,iOS,False,afternoon,True
+4351b55b2ce4c20e,25-34,MA,Rio de Janeiro,,Coordenador,finanças,grande,True,3,Rappi,Android,False,evening,True
+82f0ec2b0f917b5b,,DF,,,Designer,outros,MEI/micro,True,2,Rappi,Android,False,evening,True
+04de9e9a25caffea,35-44,SE,,R$6k-R$10k,Gerente,varejo,pequena,True,2,Nenhum,Android,True,evening,True
+3c3686f5e4b13971,45+,MG,,até R$2k,Consultor De Dados,educação,multinacional,True,2,Rappi,iOS,False,night,True
+3ade37a54e98a142,,MT,,R$4k-R$6k,Consultor,marketing,MEI/micro,False,0,Nenhum,Android,True,night,False
+37b3cad587f42d1b,18-24,BA,,,Estudante,varejo,pequena,True,1,Nenhum,iOS,True,morning,True
+99ce5d6cfe9c2906,25-34,PR,São Paulo,,Designer,marketing,MEI/micro,True,7,iFood,Android,True,afternoon,True
+c39bd9648da14513,45+,AM,,acima de R$10k,Consultor,saúde,MEI/micro,True,3,iFood,iOS,False,afternoon,True
+f455be20a59922d6,35-44,PR,,até R$2k,Professor Sênior,outros,pequena,True,2,Ambos,Android,False,morning,True
+700e37eba4f979d7,35-44,SP,,acima de R$10k,Analista De Dados,marketing,média,True,1,Nenhum,iOS,False,morning,True
+c1c4812a2dc8b525,35-44,RJ,,,Estudante,saúde,média,True,5,Rappi,iOS,False,afternoon,True
+5c215398f9743955,35-44,DF,Brasília,,Gerente,outros,MEI/micro,False,0,Nenhum,iOS,True,afternoon,True
+3572f0a2fead3914,45+,PB,Brasília,R$6k-R$10k,Estudante,saúde,pequena,True,2,Ambos,Android,True,night,True
+9f7e38a2652b8405,35-44,MG,,acima de R$10k,Analista De Dados,finanças,média,False,0,Nenhum,iOS,False,night,True
+f229a472b1928335,25-34,RS,Rio de Janeiro,até R$2k,Coordenador,finanças,pequena,True,2,iFood,Android,False,afternoon,True
+8118c37183049a98,25-34,RS,,R$4k-R$6k,Estudante,varejo,pequena,True,5,iFood,iOS,False,morning,True
+5a4d7e004bc865a7,18-24,ES,São Paulo,R$2k-R$4k,Gerente,tech,pequena,True,1,Nenhum,Android,True,morning,True
+680afd9dd1bd8a2c,18-24,AL,,,Diretor Sênior,varejo,multinacional,True,1,iFood,iOS,False,evening,True
+42f7c21bdc49baff,45+,RN,Belo Horizonte,R$6k-R$10k,Diretor,outros,grande,True,2,iFood,Android,False,evening,True
+9c0ad6f8c3933d56,25-34,MS,Belo Horizonte,acima de R$10k,Desenvolvedor,direito,média,True,2,Rappi,iOS,True,evening,True
+e06cac5d61b8de89,,BA,,R$6k-R$10k,Professor De Dados,varejo,média,True,5,Ambos,iOS,True,morning,True
+af60c16cc3044767,35-44,SE,Rio de Janeiro,,Diretor,educação,grande,True,5,iFood,Android,False,afternoon,True
+8d917e5cc156e068,18-24,MT,Curitiba,R$4k-R$6k,Diretor,tech,média,True,2,Ambos,iOS,False,morning,False
+414ea48c5b42f838,25-34,SE,Brasília,acima de R$10k,Analista,educação,grande,True,2,Ambos,Android,False,night,True
+fcb0e21a8459ab47,25-34,SC,,R$6k-R$10k,Desenvolvedor,outros,grande,False,0,Nenhum,iOS,True,morning,False
+21fbea6cd2b69705,,AL,Porto Alegre,até R$2k,Consultor,tech,grande,True,1,Rappi,iOS,True,evening,True
+48fcd328b0ae855c,45+,AL,,R$6k-R$10k,Professor,educação,multinacional,True,1,Ambos,Android,True,afternoon,True
+13d543f7a76fce4a,45+,MG,,R$4k-R$6k,Analista,finanças,MEI/micro,True,2,Rappi,Android,True,morning,True
+84cc7c78f9d40773,45+,CE,,,Analista,finanças,pequena,True,5,Rappi,iOS,True,afternoon,False
+130087a0aec346c1,45+,SC,Rio de Janeiro,até R$2k,Gerente Sênior,tech,MEI/micro,True,5,iFood,Android,True,morning,True
+113c8e95c898e939,25-34,MS,São Paulo,R$2k-R$4k,Estudante,outros,média,True,5,Rappi,Android,False,evening,True
+44259fa5bd71c1d6,18-24,SC,,,Analista,tech,MEI/micro,True,3,iFood,Android,False,night,True
+8f10f09713a718e3,35-44,BA,Brasília,R$2k-R$4k,Diretor Sênior,tech,multinacional,True,3,Nenhum,iOS,True,night,True
+eff229397bf62fd0,,SE,,R$2k-R$4k,Consultor Sênior,tech,pequena,True,2,Rappi,Android,True,morning,True
+7dc0d481d522c2f5,25-34,RJ,São Paulo,,Professor,outros,grande,True,2,Nenhum,iOS,True,morning,False
+45f2fb4b1b4a978b,35-44,GO,Brasília,,Professor,saúde,grande,True,3,Ambos,iOS,False,night,True
+2ec204059529f167,,AL,Curitiba,R$4k-R$6k,Estudante,finanças,média,True,7,Ambos,Android,False,evening,True
+f5c9c08c187c9cbb,18-24,PR,,R$2k-R$4k,Diretor,outros,MEI/micro,False,0,Nenhum,Android,False,afternoon,True
+5238d7c10493601d,25-34,MA,,,Consultor,marketing,MEI/micro,False,0,Nenhum,Android,True,morning,True
+e8a182640c3c141a,35-44,RS,Rio de Janeiro,R$2k-R$4k,Coordenador,educação,média,True,1,iFood,Android,True,afternoon,True
+cbd3d523dfd6930c,,RS,,R$2k-R$4k,Engenheiro,direito,pequena,False,0,Nenhum,iOS,False,morning,True
+3ecec70cfff798e4,35-44,PR,,R$6k-R$10k,Analista,finanças,pequena,True,2,Ambos,Android,False,night,True
+e4b454d2e5941532,25-34,RJ,São Paulo,R$4k-R$6k,Engenheiro,varejo,pequena,True,5,Rappi,Android,False,afternoon,True
+b5de8ec42d40acd2,,PE,,até R$2k,Coordenador,finanças,pequena,False,0,Nenhum,Android,True,evening,False
+e7653738fd791be5,35-44,MG,Rio de Janeiro,,Analista,educação,pequena,True,1,iFood,Android,True,afternoon,True
+5ba49ab0df2656f2,,DF,,R$4k-R$6k,Consultor,finanças,multinacional,True,3,iFood,Android,False,morning,True
+415b52900ca6e4ae,35-44,RJ,Brasília,R$4k-R$6k,Designer,educação,grande,True,3,iFood,iOS,False,afternoon,True
+d7ba48f2981a8470,25-34,MT,,R$2k-R$4k,Estudante,marketing,grande,True,1,Nenhum,Android,False,afternoon,True
+a9c09a6817a106f6,25-34,MG,Curitiba,R$4k-R$6k,Diretor,saúde,pequena,True,1,Rappi,iOS,True,night,False
+8af2ff76bfb188c0,18-24,MS,,,Professor,tech,MEI/micro,True,2,Ambos,Android,False,evening,True
+8fe5bdabeefdc946,25-34,BA,,R$6k-R$10k,Designer,educação,multinacional,True,2,iFood,iOS,False,evening,True
+0b3aaead59d5f40c,25-34,BA,São Paulo,R$2k-R$4k,Desenvolvedor,educação,média,True,3,Nenhum,iOS,True,night,False
+9125bece92e401f8,25-34,SP,Porto Alegre,R$2k-R$4k,Designer,varejo,média,True,2,Ambos,Android,False,morning,True
+66cca32a5f9149cc,25-34,DF,,R$4k-R$6k,Gerente,marketing,pequena,True,1,Rappi,Android,False,afternoon,True
+5991a062268b54c1,35-44,CE,,R$4k-R$6k,Analista,saúde,MEI/micro,True,7,Nenhum,iOS,True,morning,False
+ea6c2712f97d4fba,35-44,MA,Brasília,,Professor,varejo,grande,True,1,Ambos,Android,False,afternoon,False
+992aa53fd0d25483,35-44,PB,Belo Horizonte,acima de R$10k,Designer,finanças,grande,True,2,Ambos,iOS,True,night,True
+48d4997f8b46856f,25-34,AL,,,Estudante Sênior,varejo,MEI/micro,True,5,Rappi,Android,True,evening,True
+9cd004cc9433cfeb,25-34,ES,,R$4k-R$6k,Desenvolvedor,saúde,grande,True,1,iFood,Android,True,evening,True
+1d285c4c63837332,45+,SP,,R$4k-R$6k,Diretor,varejo,média,True,1,Nenhum,iOS,False,morning,False
+8efc4531f9bdb328,,PR,Porto Alegre,R$2k-R$4k,Estudante,varejo,MEI/micro,True,5,Rappi,Android,True,evening,True
+157311448e8cf7bf,35-44,PB,Rio de Janeiro,até R$2k,Consultor,educação,grande,True,2,Ambos,Android,True,night,True
+d16b073b87867243,35-44,MA,Porto Alegre,R$6k-R$10k,Consultor,direito,média,True,1,Rappi,iOS,False,night,False
+1e880055374bf30a,18-24,SE,Rio de Janeiro,,Coordenador De Dados,finanças,MEI/micro,False,0,Nenhum,iOS,True,morning,True
+1ccf108f4fec9765,35-44,AM,,até R$2k,Engenheiro,direito,pequena,True,2,Rappi,Android,False,morning,False
+6e0461e321b61c8a,25-34,PB,Curitiba,R$6k-R$10k,Coordenador De Dados,tech,pequena,True,3,Rappi,iOS,False,morning,True
+35e010dcd1d0e0e6,45+,SC,Rio de Janeiro,R$2k-R$4k,Estudante,tech,grande,True,3,Ambos,iOS,True,afternoon,True
+08e829d75c7e4d3f,25-34,BA,Porto Alegre,,Analista,saúde,grande,True,5,iFood,iOS,True,evening,False
+1f1e96471d14fa8b,35-44,SC,,R$4k-R$6k,Estudante,varejo,multinacional,True,5,iFood,Android,False,morning,False
+07e86e22919067ac,35-44,SC,Rio de Janeiro,,Gerente,finanças,pequena,True,7,Ambos,iOS,False,afternoon,False
+785fa1f567a7a706,,AM,Porto Alegre,,Estudante,saúde,multinacional,True,5,Ambos,Android,True,night,True
+e86cb9ca514894e0,18-24,PB,Curitiba,R$6k-R$10k,Professor,finanças,multinacional,True,1,iFood,iOS,False,night,True
+18c214c8caa94e7d,25-34,BA,Rio de Janeiro,até R$2k,Coordenador Sênior,finanças,grande,True,1,Nenhum,iOS,True,morning,True
+9acf26d2c605d27e,35-44,RN,,R$2k-R$4k,Engenheiro Sênior,varejo,grande,True,1,Rappi,iOS,False,evening,True
+53b7a4405edc3814,35-44,SP,Curitiba,,Desenvolvedor De Dados,finanças,MEI/micro,False,0,Nenhum,Android,True,afternoon,True
+38ae4c7489575e0c,25-34,RN,Belo Horizonte,R$4k-R$6k,Consultor,outros,grande,True,3,Nenhum,iOS,True,morning,True
+1f19de0739bc0c99,18-24,PB,Brasília,R$6k-R$10k,Engenheiro,tech,média,True,3,Nenhum,iOS,True,morning,True
+167082441cf7d66b,25-34,SP,,,Desenvolvedor,outros,multinacional,True,1,Rappi,Android,False,evening,True
+b277c7885e7e66d5,35-44,AM,Brasília,R$2k-R$4k,Desenvolvedor,marketing,MEI/micro,True,3,iFood,iOS,False,evening,True
+665df5f101bb8958,25-34,PR,Rio de Janeiro,R$2k-R$4k,Analista,tech,grande,True,1,Rappi,iOS,True,night,True
+a1f50e43c7df049d,18-24,RS,Belo Horizonte,,Coordenador,varejo,grande,True,5,Ambos,iOS,False,morning,True
+80da9a32adc963f9,,RN,Belo Horizonte,,Gerente De Dados,educação,MEI/micro,True,2,Rappi,Android,False,evening,True
+c5a30823fc23b259,35-44,GO,Brasília,R$4k-R$6k,Designer,marketing,multinacional,True,5,Ambos,iOS,True,afternoon,False
+83ee9a4655fadf63,,RJ,,R$6k-R$10k,Coordenador,tech,grande,True,3,Ambos,iOS,False,night,False
+ce514e067fcc0e54,18-24,RS,Curitiba,,Analista,finanças,grande,True,2,Nenhum,Android,False,afternoon,True
+cbbb861869a88055,25-34,DF,Brasília,,Desenvolvedor,finanças,multinacional,True,2,Nenhum,iOS,True,afternoon,True
+0103bc86e518a6e6,,PE,Curitiba,R$6k-R$10k,Consultor,outros,MEI/micro,False,0,Nenhum,iOS,True,morning,True
+e319b874c80a290d,35-44,AM,Rio de Janeiro,,Engenheiro De Dados,finanças,multinacional,True,2,Ambos,iOS,True,night,True
+62d8d5404726c646,35-44,AM,,até R$2k,Diretor,tech,multinacional,True,2,iFood,iOS,False,night,True
+73463deb8e5b59a4,45+,MT,São Paulo,R$6k-R$10k,Consultor,marketing,MEI/micro,False,0,Nenhum,iOS,True,morning,True
+cb29d8bd76a7584e,45+,MT,Brasília,acima de R$10k,Diretor Sênior,direito,MEI/micro,True,2,iFood,Android,True,evening,False
+d5c9fcbc9db25263,25-34,AM,,R$6k-R$10k,Desenvolvedor,tech,multinacional,False,0,Nenhum,Android,True,evening,True
+2d8d6715980ff010,45+,DF,Curitiba,acima de R$10k,Analista,tech,multinacional,True,2,Nenhum,Android,True,morning,True
+3635e9e0f0bd4252,35-44,SP,Brasília,,Professor Sênior,varejo,média,True,7,Rappi,iOS,True,night,True
+a54aaf84063ccf2f,35-44,RS,Belo Horizonte,R$6k-R$10k,Estudante Sênior,outros,pequena,True,7,iFood,iOS,True,evening,True
+c1114994228c7e00,25-34,GO,Curitiba,até R$2k,Coordenador,outros,multinacional,True,3,Rappi,Android,False,evening,True
+c486aa4135ffa503,35-44,AM,Porto Alegre,R$2k-R$4k,Diretor,tech,multinacional,True,3,Nenhum,Android,True,evening,True
+68293897b7240e45,45+,PE,,,Desenvolvedor,finanças,multinacional,True,7,Ambos,Android,False,afternoon,True
+a7123236ca38c0bf,35-44,DF,Porto Alegre,,Gerente,tech,pequena,True,2,Ambos,iOS,False,morning,True
+8553a315b6afbbcb,25-34,GO,,R$4k-R$6k,Diretor,educação,multinacional,False,0,Nenhum,Android,True,night,True
+69723afab115c652,25-34,SP,,R$6k-R$10k,Desenvolvedor,saúde,pequena,True,1,Rappi,Android,False,morning,True
+d86b5fbd5947863d,25-34,CE,,R$2k-R$4k,Professor,finanças,MEI/micro,True,5,iFood,Android,False,afternoon,True
+4af143c7418facad,25-34,RS,Curitiba,,Diretor,direito,média,True,3,Ambos,Android,False,morning,True
+a4d216b2b02d46ec,35-44,ES,,acima de R$10k,Engenheiro,finanças,MEI/micro,True,1,Ambos,iOS,True,morning,True
+53de99ff9555fc2d,25-34,MS,,R$2k-R$4k,Engenheiro Sênior,finanças,MEI/micro,False,0,Nenhum,iOS,False,evening,True
+776aa8ffd9cc35fb,25-34,AM,,acima de R$10k,Gerente,educação,grande,True,2,Rappi,iOS,False,morning,True
+2b891e7807f40826,25-34,RS,São Paulo,R$6k-R$10k,Professor,tech,grande,True,1,Nenhum,Android,False,morning,True
+f64139f3e8cb8262,35-44,GO,,R$4k-R$6k,Gerente Sênior,educação,MEI/micro,True,2,Rappi,iOS,True,afternoon,True
+41f20f0cdd5a5843,18-24,SE,Rio de Janeiro,R$6k-R$10k,Coordenador,marketing,multinacional,True,3,Rappi,Android,False,evening,True
+293f1d606ef564c0,25-34,PB,,R$2k-R$4k,Gerente,tech,multinacional,True,7,Ambos,Android,True,morning,True
+b9147f5f153ca985,25-34,MA,,,Consultor,saúde,multinacional,True,5,Nenhum,Android,False,night,True
+15ea127e08e4f1bf,35-44,SC,São Paulo,R$4k-R$6k,Professor,outros,média,False,0,Nenhum,Android,False,evening,True
+13c8f27c8882789f,45+,PB,Belo Horizonte,até R$2k,Professor De Dados,outros,pequena,False,0,Nenhum,iOS,False,morning,True
+15b849f8d113684d,45+,CE,São Paulo,até R$2k,Desenvolvedor,tech,média,True,3,Rappi,Android,True,morning,True
+757054edc653c744,25-34,AL,,até R$2k,Professor,marketing,multinacional,True,1,Ambos,iOS,True,morning,True
+d66aef24113ca92b,25-34,MT,,R$4k-R$6k,Consultor,outros,multinacional,True,2,Nenhum,Android,False,night,True
+2dafa09c714b2f61,25-34,SC,Porto Alegre,,Consultor,tech,grande,False,0,Nenhum,Android,True,night,True
+aecdeceeb05d40a7,35-44,PE,Porto Alegre,R$4k-R$6k,Engenheiro,marketing,grande,True,2,iFood,Android,False,morning,True
+16d801b143b0b571,,MS,,,Diretor,tech,MEI/micro,False,0,Nenhum,iOS,False,evening,True
+608e407a9eeeac85,18-24,PR,São Paulo,R$6k-R$10k,Engenheiro,educação,MEI/micro,True,1,Ambos,iOS,False,evening,True
+c3dc8c94d1cc9888,35-44,AM,Porto Alegre,R$2k-R$4k,Diretor,tech,pequena,False,0,Nenhum,iOS,False,evening,True
+b07f4bb2f25a5f62,18-24,AL,Belo Horizonte,acima de R$10k,Diretor,finanças,MEI/micro,True,7,Ambos,Android,False,evening,True
+12d21c4141892bb0,25-34,GO,Curitiba,,Gerente,outros,grande,True,1,Nenhum,iOS,False,evening,False
+a5f775b7f751f46a,25-34,SP,Brasília,,Estudante,marketing,MEI/micro,True,1,Nenhum,iOS,False,morning,True
+7d59db4cd18d523b,25-34,SP,Belo Horizonte,,Analista,marketing,grande,True,1,iFood,iOS,False,night,False
+2ab400247f41186a,25-34,SP,Porto Alegre,R$4k-R$6k,Diretor Sênior,tech,grande,True,3,Ambos,iOS,True,night,True
+d8da19caeff005dc,25-34,PB,Belo Horizonte,R$6k-R$10k,Engenheiro,tech,multinacional,True,2,Rappi,iOS,True,morning,True
+ab9f519b14f7fc72,35-44,MA,Belo Horizonte,R$4k-R$6k,Analista Sênior,outros,pequena,True,5,Nenhum,iOS,False,morning,True
+a117fa6523be44c3,45+,SP,,até R$2k,Gerente,educação,grande,True,1,Ambos,Android,True,morning,True
+495df60119c5619c,35-44,MA,Rio de Janeiro,R$6k-R$10k,Diretor,tech,média,True,3,Nenhum,Android,False,morning,True
+3a060b3757cbebdd,,BA,Brasília,,Gerente,tech,média,False,0,Nenhum,Android,True,evening,True
+8ec0de1f22914e44,25-34,BA,,até R$2k,Professor,finanças,média,False,0,Nenhum,iOS,False,morning,True
+e8aa2e3220f22769,35-44,SP,Rio de Janeiro,R$4k-R$6k,Designer,tech,grande,True,7,Nenhum,iOS,True,evening,True
+ae46e981a3902a34,35-44,PB,Rio de Janeiro,até R$2k,Estudante,educação,multinacional,True,2,Nenhum,Android,False,evening,True
+b49ef58c291fa472,,PR,Belo Horizonte,R$6k-R$10k,Professor,finanças,média,False,0,Nenhum,iOS,False,afternoon,True
+69157ed7cc013cd5,25-34,ES,,acima de R$10k,Designer,tech,pequena,True,3,Nenhum,iOS,False,evening,True
+962ec75d1e6f2481,,AM,São Paulo,,Estudante,tech,multinacional,True,7,Nenhum,iOS,True,morning,False
+63e671dfa1c4d02a,45+,SP,,até R$2k,Coordenador,finanças,pequena,True,7,iFood,Android,False,morning,True
+304889486c361726,35-44,PE,,até R$2k,Diretor,finanças,grande,False,0,Nenhum,iOS,False,evening,True
+cefa0bb1c8c132ad,18-24,RJ,Belo Horizonte,R$4k-R$6k,Engenheiro,marketing,pequena,True,1,Ambos,iOS,True,evening,True
+55ca3ec3226f471e,35-44,GO,,até R$2k,Coordenador,tech,média,True,3,iFood,iOS,False,afternoon,True
+9bbdcc23e0302ebd,35-44,RS,,,Engenheiro,tech,MEI/micro,True,7,iFood,Android,False,night,True
+7d36845f650db625,25-34,PB,,até R$2k,Analista,outros,multinacional,True,3,Rappi,Android,False,evening,False
+edbdde13c90d0574,35-44,SC,,R$6k-R$10k,Consultor,direito,grande,True,3,Ambos,iOS,True,afternoon,True
+bb91b9b360d3a126,25-34,MG,Brasília,até R$2k,Desenvolvedor,tech,pequena,True,5,Nenhum,Android,True,morning,True
+2fb065b62f88bbf5,35-44,AM,,R$2k-R$4k,Gerente,direito,MEI/micro,True,2,Nenhum,iOS,False,afternoon,True
+97eafa9097c5a73b,45+,SP,Curitiba,R$2k-R$4k,Engenheiro,educação,multinacional,True,7,Ambos,Android,False,afternoon,True
+15081a9816ca3655,25-34,RS,Rio de Janeiro,R$6k-R$10k,Desenvolvedor Sênior,varejo,pequena,True,2,Rappi,iOS,True,evening,True
+ae847e53331e508b,,BA,,R$4k-R$6k,Coordenador,educação,multinacional,False,0,Nenhum,Android,True,night,True
+11da599fd9a26671,35-44,PB,Brasília,acima de R$10k,Estudante,direito,MEI/micro,False,0,Nenhum,iOS,True,evening,True
+9147cd6410566a8a,45+,ES,Porto Alegre,R$4k-R$6k,Diretor,outros,grande,True,3,Nenhum,Android,False,evening,True
+2c41aac03a04e595,35-44,AM,Rio de Janeiro,R$6k-R$10k,Designer,direito,grande,True,3,Rappi,Android,True,afternoon,True
+a7b2d96867c1eb5f,,MG,,R$2k-R$4k,Diretor De Dados,finanças,grande,True,5,Rappi,Android,False,morning,True
+e1f2ca7a152086cb,45+,SE,,,Diretor,tech,MEI/micro,True,2,iFood,iOS,False,afternoon,True
+89ce209dfca55e26,45+,MA,,até R$2k,Gerente,educação,multinacional,True,2,Nenhum,iOS,False,morning,True
+d2a3b700fd07f3ab,35-44,MT,Rio de Janeiro,R$4k-R$6k,Gerente Sênior,educação,MEI/micro,True,2,iFood,Android,True,morning,True
+8e3c40c449ec66df,25-34,MA,,R$2k-R$4k,Consultor,tech,média,True,5,Rappi,iOS,False,morning,True
+471922946e9f3b99,25-34,AL,,R$2k-R$4k,Gerente,marketing,média,True,5,Ambos,iOS,True,afternoon,True
+9fe7a4ea6cc49c50,18-24,AL,Belo Horizonte,R$4k-R$6k,Diretor,outros,grande,True,3,Nenhum,iOS,True,morning,True
+257c68f4ad6f0348,18-24,RJ,,R$2k-R$4k,Consultor,saúde,média,False,0,Nenhum,iOS,False,morning,True
+059a64a29a4f3aaf,35-44,MS,,R$6k-R$10k,Diretor,educação,média,True,7,Nenhum,iOS,False,morning,True
+1f3cf9e14668527e,35-44,GO,,R$6k-R$10k,Coordenador,finanças,média,True,2,Nenhum,iOS,False,evening,True
+b2c0e31a9a41f5d3,35-44,PR,Rio de Janeiro,até R$2k,Coordenador De Dados,tech,MEI/micro,True,1,Nenhum,Android,True,evening,True
+2ec2ab4f44d01abb,35-44,MS,Belo Horizonte,,Engenheiro,saúde,multinacional,True,2,iFood,iOS,True,morning,True
+afaa86e83bb30f5a,45+,MT,,R$6k-R$10k,Diretor,saúde,grande,True,5,Nenhum,iOS,True,evening,False
+2dfebb6ff13abe84,25-34,SP,Brasília,R$2k-R$4k,Diretor,tech,multinacional,True,3,iFood,Android,True,evening,True
+83d702c07615225f,,MG,São Paulo,R$6k-R$10k,Gerente,educação,pequena,True,2,iFood,Android,True,morning,True
+4b9edfc1e77bd93d,25-34,MS,,R$6k-R$10k,Coordenador,varejo,MEI/micro,True,3,Rappi,Android,False,evening,True
+cb05bb2f3634e514,25-34,DF,,,Estudante,outros,pequena,True,7,Rappi,iOS,False,afternoon,False
+c72216ad02cb1cb9,25-34,MT,Porto Alegre,,Coordenador,educação,média,True,7,iFood,Android,False,afternoon,True
+b4ffe7bd786987e6,25-34,BA,,R$6k-R$10k,Professor,educação,pequena,True,1,iFood,Android,False,evening,True
+8d5f2e57066d360f,25-34,SE,Curitiba,R$2k-R$4k,Professor,varejo,grande,True,1,Rappi,iOS,True,evening,True
+2c3376ebb9efefff,25-34,RN,Porto Alegre,R$2k-R$4k,Engenheiro De Dados,marketing,MEI/micro,False,0,Nenhum,iOS,True,morning,False
+b3593cb164ece2ba,,SE,Brasília,R$6k-R$10k,Gerente,saúde,MEI/micro,True,5,Nenhum,iOS,True,evening,True
+baa8f1c70609f369,25-34,DF,Brasília,,Diretor,varejo,grande,True,7,Nenhum,iOS,True,evening,True
+c630957a319297ff,35-44,PE,,R$6k-R$10k,Desenvolvedor,finanças,grande,True,7,iFood,iOS,True,evening,True
+091d3667dcd96332,35-44,MS,Brasília,,Engenheiro De Dados,tech,pequena,True,5,Rappi,Android,False,evening,False
+467b89d037bd9a42,25-34,MA,Belo Horizonte,R$4k-R$6k,Gerente Sênior,outros,MEI/micro,True,5,Ambos,iOS,False,evening,True
+d7f63dda905adaec,35-44,PE,,R$4k-R$6k,Analista,tech,grande,True,7,Rappi,iOS,True,evening,True
+4e8e91232e0081dc,25-34,BA,Curitiba,,Consultor,varejo,pequena,True,2,Nenhum,Android,False,evening,True
+fae5a61ca0c79231,35-44,AM,Rio de Janeiro,acima de R$10k,Analista,varejo,multinacional,True,3,Rappi,iOS,False,afternoon,True
+750de4b24a944829,45+,SP,,R$4k-R$6k,Designer,varejo,multinacional,True,1,Nenhum,iOS,True,evening,True
+8d55143f721aa789,25-34,AL,,até R$2k,Consultor,finanças,grande,True,2,Rappi,iOS,False,evening,True
+ac0c2f5b24930162,35-44,RN,Porto Alegre,R$4k-R$6k,Gerente,finanças,média,True,2,Nenhum,Android,True,afternoon,True
+a962502b103ec5f8,35-44,SC,Brasília,até R$2k,Desenvolvedor,finanças,MEI/micro,True,2,Ambos,iOS,False,evening,True
+e9009f71cfa72631,35-44,RN,Belo Horizonte,,Consultor,finanças,MEI/micro,True,7,iFood,Android,True,morning,True
+b51295c38f18098d,25-34,SE,Belo Horizonte,R$6k-R$10k,Gerente,educação,multinacional,True,3,Ambos,Android,True,afternoon,True
+cdfafdc1dadca716,25-34,BA,Porto Alegre,,Desenvolvedor,tech,MEI/micro,True,2,Ambos,iOS,False,afternoon,True
+fbc5a628d380fefb,25-34,ES,,R$4k-R$6k,Diretor,outros,grande,True,2,iFood,iOS,False,evening,True
+ac7e3c13ec5e74f8,35-44,MT,,R$2k-R$4k,Gerente,tech,grande,True,2,iFood,iOS,False,evening,True
+e97d41766485236b,18-24,RJ,Porto Alegre,até R$2k,Consultor,finanças,multinacional,True,2,Ambos,iOS,False,morning,True
+71d4421f5c159be1,18-24,MS,,R$6k-R$10k,Diretor,tech,multinacional,True,5,Ambos,Android,True,evening,False
+15167094011cfcab,35-44,ES,Belo Horizonte,,Engenheiro De Dados,finanças,média,True,1,Rappi,Android,True,night,True
+2b1aa5514d25cf8c,25-34,AM,Belo Horizonte,até R$2k,Designer,finanças,MEI/micro,False,0,Nenhum,Android,True,morning,True
+441c2b988377df5d,45+,MT,,R$4k-R$6k,Estudante Sênior,marketing,grande,False,0,Nenhum,iOS,True,morning,True
+8f1f9bed52ffbaab,,ES,,,Desenvolvedor,tech,MEI/micro,True,1,Rappi,Android,False,morning,True
+3a2d294bec25d544,25-34,GO,Porto Alegre,,Gerente,tech,média,True,2,iFood,Android,True,evening,True
+40dc9320a15e1a0b,25-34,RN,,R$4k-R$6k,Desenvolvedor,saúde,média,True,1,Nenhum,iOS,False,afternoon,True
+4e5d4dd8a1ecc313,25-34,AL,Porto Alegre,R$2k-R$4k,Gerente,tech,grande,True,1,Nenhum,Android,False,night,True
+e9bef9ab2bd17923,25-34,MA,,R$6k-R$10k,Engenheiro Sênior,saúde,multinacional,True,2,Rappi,iOS,False,night,True
+5448ada49344ee59,,RS,,até R$2k,Coordenador,direito,MEI/micro,True,2,Ambos,Android,True,morning,True
+b34af47e53943312,25-34,MA,,R$2k-R$4k,Professor,finanças,grande,False,0,Nenhum,iOS,True,morning,True
+b8cbfef06810d324,18-24,PR,São Paulo,acima de R$10k,Professor,outros,MEI/micro,True,5,Ambos,Android,True,afternoon,False
+f8c3df2555e113f1,25-34,RS,Curitiba,R$6k-R$10k,Desenvolvedor,outros,MEI/micro,True,2,Ambos,Android,True,night,False
+18e4dafae5b96a5c,45+,RS,Rio de Janeiro,acima de R$10k,Gerente,marketing,pequena,True,3,Ambos,iOS,False,evening,True
+28de25b341b1f30f,25-34,MG,Brasília,,Gerente,outros,grande,True,2,Rappi,Android,False,afternoon,True
+f9486dabacfd48d9,,RS,São Paulo,,Gerente,outros,multinacional,True,5,Ambos,iOS,False,night,True
+a85e964994e352d7,35-44,PR,Curitiba,,Coordenador Sênior,outros,multinacional,True,3,Rappi,Android,False,evening,True
+070044d44271a8f6,45+,AL,Brasília,,Diretor,outros,grande,True,2,Rappi,iOS,False,morning,True
+7bcc1dd8569405a0,35-44,SP,Rio de Janeiro,R$6k-R$10k,Engenheiro,tech,média,True,2,Ambos,iOS,True,afternoon,True
+c5810c3ffdc76ab7,35-44,RN,Porto Alegre,,Estudante,outros,MEI/micro,True,3,Ambos,Android,False,evening,True
+35274d57b7d5e2da,18-24,SC,Belo Horizonte,acima de R$10k,Diretor,varejo,multinacional,True,3,Ambos,Android,True,night,True
+196cffab83a7beee,45+,MT,Belo Horizonte,,Designer,educação,média,True,2,Rappi,iOS,False,night,True
+fe2424c3aa7fb790,35-44,MG,Brasília,R$2k-R$4k,Diretor De Dados,finanças,multinacional,True,2,Ambos,Android,False,evening,True
+51c0c15ec5cb5c40,35-44,PE,,R$4k-R$6k,Professor,educação,pequena,True,2,Ambos,iOS,False,evening,True
+91d43131f54a7fc8,25-34,BA,Belo Horizonte,até R$2k,Gerente,educação,média,False,0,Nenhum,iOS,False,evening,True
+e3a33063975677b7,45+,GO,Curitiba,até R$2k,Professor,outros,grande,True,1,Nenhum,iOS,False,afternoon,True
+b41aa100f297ab56,18-24,CE,,acima de R$10k,Analista,finanças,MEI/micro,True,1,iFood,iOS,False,morning,True
+121f4772958f3c96,45+,SC,,até R$2k,Analista,varejo,multinacional,True,2,Nenhum,Android,False,morning,True
+38861ddecdb6e602,25-34,SC,,acima de R$10k,Consultor,direito,média,True,2,Ambos,iOS,True,evening,False
+1d09e06cec59d4d1,35-44,MT,,até R$2k,Designer,tech,MEI/micro,True,2,Ambos,Android,False,morning,True
+ee04bdc1b541ab93,25-34,MG,,até R$2k,Estudante,outros,MEI/micro,True,1,Ambos,iOS,True,evening,True
+697374949c7e26f9,25-34,RJ,Belo Horizonte,R$6k-R$10k,Designer De Dados,educação,multinacional,True,2,Ambos,Android,True,afternoon,True
+eac2942a0837729a,35-44,DF,Rio de Janeiro,R$4k-R$6k,Gerente,outros,multinacional,True,1,Ambos,iOS,False,night,False
+c72b51dfba469134,,RS,Belo Horizonte,R$2k-R$4k,Analista,finanças,grande,True,2,Ambos,iOS,False,night,True
+7b4dc98c5124720f,,AM,Belo Horizonte,acima de R$10k,Coordenador,educação,multinacional,True,5,Nenhum,iOS,False,afternoon,True
+223c3018b5bcda91,,PB,Rio de Janeiro,R$4k-R$6k,Desenvolvedor Sênior,tech,MEI/micro,True,2,Rappi,iOS,True,morning,True
+48965df8955fafbc,25-34,BA,,,Designer,varejo,MEI/micro,True,2,Ambos,Android,False,morning,False
+e5a91af114ab4427,18-24,PR,Porto Alegre,,Gerente,outros,pequena,True,3,iFood,Android,False,evening,True
+02134a50a8dd9be7,45+,PE,,até R$2k,Designer Sênior,marketing,média,False,0,Nenhum,Android,False,afternoon,True
+4ccab4488c89c7ff,25-34,DF,,,Analista,tech,pequena,True,2,iFood,iOS,False,morning,True
+70c8ca4fcc96accb,,MT,,R$6k-R$10k,Estudante,tech,MEI/micro,True,1,Nenhum,iOS,False,morning,True
+7ce4d499f7f630ef,,ES,,,Consultor De Dados,tech,grande,False,0,Nenhum,iOS,True,night,True
+1c6051e87f325c6d,18-24,AM,Rio de Janeiro,acima de R$10k,Desenvolvedor,saúde,pequena,True,2,Nenhum,iOS,True,night,True
+07a280a36f6689d7,25-34,MG,,R$2k-R$4k,Estudante,tech,grande,True,7,Ambos,iOS,False,afternoon,True
+9c7ebbf7945bb556,45+,MT,Brasília,R$6k-R$10k,Diretor,varejo,MEI/micro,True,2,iFood,Android,False,morning,True
+8014fede57684b73,18-24,GO,Belo Horizonte,R$2k-R$4k,Analista,marketing,MEI/micro,True,3,Rappi,Android,False,evening,True
+39f58685f9b7ec2f,25-34,PR,Rio de Janeiro,,Coordenador,varejo,média,True,3,iFood,Android,False,morning,True
+5b4e1ace33ba53da,,AL,São Paulo,R$2k-R$4k,Estudante,tech,pequena,True,3,Ambos,iOS,False,evening,True
+dafd005720a74223,35-44,MT,São Paulo,R$2k-R$4k,Professor,varejo,multinacional,True,5,iFood,iOS,False,morning,True
+fa5bb83eff34ffb2,25-34,MG,,R$2k-R$4k,Engenheiro,saúde,pequena,True,2,Rappi,Android,True,evening,True
+342ba2c0d3b123e5,25-34,CE,Porto Alegre,R$4k-R$6k,Gerente,marketing,multinacional,True,2,Ambos,Android,False,evening,True
+514a6ff94b89ddd5,25-34,SE,,R$4k-R$6k,Diretor,outros,média,True,2,Rappi,iOS,True,morning,True
+43b3a0166dbab076,35-44,MA,Curitiba,R$6k-R$10k,Designer,marketing,multinacional,False,0,Nenhum,iOS,True,morning,True
+27feffeea2151797,25-34,GO,Porto Alegre,R$4k-R$6k,Designer,finanças,pequena,True,2,iFood,iOS,False,evening,True
+ad2eb3aa95f3abda,18-24,MA,,até R$2k,Diretor,outros,média,False,0,Nenhum,Android,False,evening,True
+79bc993fcdd7867e,18-24,DF,Brasília,R$2k-R$4k,Designer,educação,multinacional,True,7,iFood,Android,True,afternoon,True
+778456a6a645e375,25-34,PE,Rio de Janeiro,acima de R$10k,Estudante,finanças,multinacional,True,7,Nenhum,iOS,False,evening,True
+fe8b91cdec6fe6a9,,SE,,R$4k-R$6k,Engenheiro,finanças,média,True,2,Nenhum,Android,False,evening,True
+5f96cf0980ac4289,25-34,MG,Belo Horizonte,R$2k-R$4k,Diretor,outros,multinacional,False,0,Nenhum,iOS,False,afternoon,True
+86e41ba0898de083,,RN,,até R$2k,Diretor,direito,MEI/micro,True,5,Rappi,Android,False,evening,True
+f9e7ac413859fedc,,MG,Rio de Janeiro,R$2k-R$4k,Professor,tech,média,True,2,iFood,Android,True,night,True
+266f6d334dff45ac,25-34,SC,São Paulo,acima de R$10k,Estudante,tech,média,True,2,iFood,Android,False,night,True
+a040ed29d1b4a4c1,25-34,ES,,,Professor De Dados,saúde,multinacional,True,3,Ambos,Android,False,morning,True
+07124643bcf3f31e,25-34,GO,,até R$2k,Estudante,varejo,grande,True,5,iFood,Android,True,night,True
+95a19db11c790773,35-44,MT,,,Coordenador,outros,pequena,True,2,Rappi,iOS,True,night,False
+f366c03d667bbb41,25-34,MG,Brasília,,Diretor,tech,multinacional,True,1,iFood,Android,False,morning,True
+cb4d09da69be2356,18-24,CE,Curitiba,,Engenheiro,outros,média,True,1,Rappi,iOS,True,evening,True
+5f2e4b7df9c16cc1,18-24,RN,Curitiba,R$4k-R$6k,Consultor,saúde,multinacional,True,7,Nenhum,Android,False,evening,False
+550c909b9ecef4e9,25-34,PR,Brasília,R$2k-R$4k,Diretor,direito,multinacional,True,3,iFood,iOS,True,morning,True
+2f68726ee1c2c818,25-34,AL,,R$6k-R$10k,Consultor,tech,média,True,1,Rappi,Android,False,night,False
+51c9b37e285a80a2,,PR,,,Estudante,educação,grande,True,2,Nenhum,Android,False,morning,True
+79d70cb64ce77d35,18-24,BA,Rio de Janeiro,R$2k-R$4k,Designer De Dados,educação,MEI/micro,False,0,Nenhum,Android,False,morning,True
+60234be6ad4e91d0,,MG,Brasília,acima de R$10k,Diretor,finanças,pequena,False,0,Nenhum,iOS,True,night,True
+d3095f13df536ecb,18-24,MG,Curitiba,acima de R$10k,Designer,varejo,média,True,1,Nenhum,iOS,True,afternoon,True
+306bb57c117da8a8,45+,MA,,R$2k-R$4k,Engenheiro,outros,MEI/micro,True,3,Ambos,Android,True,morning,True
+471b4c2139fb4819,25-34,AL,,até R$2k,Coordenador Sênior,outros,MEI/micro,True,2,Nenhum,Android,True,night,True
+78335d56e71ad154,25-34,ES,,,Engenheiro,educação,média,True,3,iFood,iOS,False,evening,True
+039279ad8348a9f5,18-24,SP,,,Gerente De Dados,tech,MEI/micro,True,1,iFood,Android,True,morning,True
+bc4c85204f767ba7,,BA,Porto Alegre,R$4k-R$6k,Analista,varejo,pequena,True,1,Rappi,iOS,True,evening,True
+88f13b9414f90b78,25-34,RS,,R$4k-R$6k,Estudante,outros,grande,True,3,Nenhum,iOS,False,evening,True
+b357a9d276b7483a,,GO,Porto Alegre,acima de R$10k,Coordenador,finanças,média,True,2,Rappi,iOS,True,afternoon,True
+37cf5eeb13bc6e11,35-44,GO,São Paulo,R$2k-R$4k,Engenheiro,outros,grande,True,3,Nenhum,iOS,False,afternoon,True
+720de2108db15041,25-34,MA,Belo Horizonte,R$6k-R$10k,Consultor,finanças,grande,False,0,Nenhum,iOS,True,evening,True
+5016a0da77d564ec,25-34,MS,,até R$2k,Desenvolvedor,marketing,média,True,1,iFood,iOS,True,night,False
+157386345f7e14ad,18-24,PE,,R$6k-R$10k,Diretor,direito,média,True,3,Ambos,iOS,True,morning,True
+a889b7f4bb9c00b4,35-44,GO,Porto Alegre,R$2k-R$4k,Diretor,marketing,média,True,2,iFood,iOS,False,morning,True
+8532cb580f12f0ca,45+,SC,Porto Alegre,R$6k-R$10k,Coordenador,tech,grande,False,0,Nenhum,Android,False,night,True
+5f624a3f1fc47179,35-44,SE,Porto Alegre,R$4k-R$6k,Consultor,saúde,multinacional,True,3,Rappi,iOS,False,morning,False
+389ae1526e459526,25-34,MA,Brasília,R$2k-R$4k,Engenheiro,finanças,MEI/micro,True,3,Ambos,Android,False,evening,True
+0ec1da7ddcfe3548,35-44,RS,Porto Alegre,R$2k-R$4k,Engenheiro,direito,grande,True,7,iFood,Android,True,morning,True
+c658312def86a7c2,25-34,MG,Curitiba,R$6k-R$10k,Consultor,marketing,média,True,1,Ambos,iOS,False,morning,False
+ea739162cc1e0e61,,RJ,Porto Alegre,,Gerente,marketing,pequena,True,2,Ambos,Android,False,afternoon,True
+78fbb5d25caf3ed1,35-44,MG,Brasília,até R$2k,Analista,finanças,média,True,1,Ambos,iOS,False,night,True
+0db9712fde3a107b,25-34,AM,,R$2k-R$4k,Professor,saúde,multinacional,True,2,Rappi,iOS,False,night,True
+b56bfd06f2ad5853,,MA,,R$6k-R$10k,Analista,tech,multinacional,True,1,iFood,iOS,True,evening,True
+f4e1fd12484148cf,25-34,SC,São Paulo,,Desenvolvedor,outros,pequena,True,1,Ambos,Android,False,morning,True
+02c3c251f0f99a48,35-44,MA,Rio de Janeiro,,Desenvolvedor,educação,MEI/micro,True,5,Rappi,iOS,True,morning,True
+ca1aae547097fe11,18-24,AL,Rio de Janeiro,R$2k-R$4k,Diretor,direito,multinacional,True,1,Nenhum,iOS,True,afternoon,True
+dc5e164a79756af8,25-34,SE,São Paulo,R$6k-R$10k,Designer,tech,pequena,False,0,Nenhum,Android,False,morning,True
+1960a53482a468bc,,RS,Curitiba,,Engenheiro,tech,pequena,False,0,Nenhum,Android,True,evening,True
+e66c213d52918c5f,25-34,RS,Brasília,,Designer,finanças,média,False,0,Nenhum,Android,False,morning,True
+5eaa4882c99cedda,25-34,MT,Brasília,até R$2k,Engenheiro,educação,multinacional,False,0,Nenhum,iOS,False,morning,False
+6220de621fef79b8,,MS,Rio de Janeiro,R$2k-R$4k,Diretor,educação,média,True,3,Nenhum,iOS,False,morning,False
+b652dabbde2b21da,35-44,ES,,R$6k-R$10k,Gerente,educação,grande,True,2,Ambos,iOS,True,afternoon,True
+9e8bd2b9aad9de6d,,BA,Belo Horizonte,R$2k-R$4k,Coordenador,educação,MEI/micro,True,1,Rappi,Android,False,evening,True
+0cc8142e844ef06b,,SC,São Paulo,R$4k-R$6k,Engenheiro,saúde,pequena,False,0,Nenhum,Android,False,night,True
+0c210547e4728142,35-44,RJ,Rio de Janeiro,acima de R$10k,Designer,varejo,pequena,True,1,Rappi,Android,True,morning,True
+a4fef75c1ced800d,,AM,Belo Horizonte,R$6k-R$10k,Analista,outros,grande,True,5,iFood,iOS,False,morning,True
+18100c03c95fc9f5,25-34,ES,São Paulo,R$4k-R$6k,Estudante,tech,pequena,True,1,Rappi,iOS,False,night,True
+8601e17012b234bb,25-34,RS,,R$4k-R$6k,Coordenador,direito,grande,True,7,Ambos,iOS,True,evening,True
+da6d5f8c4a45c822,35-44,RS,,R$2k-R$4k,Consultor,educação,grande,False,0,Nenhum,iOS,False,morning,True
+9f4ac8daed21fe16,,SC,Belo Horizonte,,Coordenador,educação,MEI/micro,True,2,Rappi,iOS,False,afternoon,True
+697e9e150e91bb76,35-44,BA,Porto Alegre,acima de R$10k,Analista,finanças,média,True,2,Nenhum,Android,False,evening,True
+93d78aff1e0c0bc5,45+,AM,Belo Horizonte,até R$2k,Professor,outros,grande,True,3,Rappi,Android,False,night,True
+38b7b9af2a098012,35-44,SE,,,Gerente,outros,pequena,True,1,iFood,Android,False,evening,True
+6e5a184ba2865fde,35-44,AL,,,Gerente,outros,grande,True,1,iFood,Android,True,evening,True
+408690232dbee268,35-44,PE,,R$4k-R$6k,Diretor,outros,MEI/micro,True,7,Nenhum,iOS,True,night,True
+008b64b22c8c3d43,45+,RJ,Porto Alegre,acima de R$10k,Coordenador,educação,pequena,True,3,Nenhum,Android,False,evening,True
+659f5b9aa04f49eb,35-44,AL,Belo Horizonte,R$6k-R$10k,Analista,tech,MEI/micro,True,5,iFood,Android,False,afternoon,True
+ec3e64424f86dd42,45+,PB,,R$2k-R$4k,Diretor,finanças,média,True,3,Ambos,iOS,True,evening,True
+5d43a4d0a861d7f7,,SC,,R$4k-R$6k,Professor,tech,pequena,True,1,Ambos,iOS,True,afternoon,True
+8c3a700016e4e404,35-44,SE,Brasília,,Engenheiro,finanças,média,True,1,Nenhum,Android,True,morning,True
+f19f7b38f83a2cae,25-34,AL,Brasília,R$4k-R$6k,Designer,saúde,multinacional,False,0,Nenhum,iOS,True,evening,False
+18a998aebf9cd602,,MA,São Paulo,,Engenheiro,outros,média,True,3,Rappi,iOS,False,night,True
+6f566ed75b881faf,45+,RJ,Porto Alegre,R$2k-R$4k,Consultor,outros,média,True,2,iFood,iOS,True,afternoon,True
+6aad67694a65a9e5,18-24,RS,Porto Alegre,R$4k-R$6k,Consultor,outros,média,False,0,Nenhum,iOS,True,morning,True
+6e83889f83f14b72,18-24,GO,Rio de Janeiro,R$4k-R$6k,Coordenador,educação,multinacional,False,0,Nenhum,Android,True,afternoon,False
+c6a8b04d39bc22e0,18-24,PE,São Paulo,,Analista,saúde,MEI/micro,True,3,Rappi,iOS,True,night,False
+a92511d215cc19e5,,SC,Brasília,R$2k-R$4k,Engenheiro,educação,grande,True,3,Ambos,Android,False,afternoon,True
+3070d41f63d88c74,25-34,SP,,,Estudante,outros,multinacional,True,5,iFood,iOS,True,morning,True
+79214fed491f4470,25-34,PB,São Paulo,R$6k-R$10k,Diretor,tech,média,True,2,Ambos,iOS,False,afternoon,True
+145a39171ec6bfb9,25-34,ES,Brasília,R$4k-R$6k,Estudante Sênior,educação,média,True,2,iFood,iOS,True,night,True
+00408a184aeda9b1,35-44,GO,Curitiba,R$4k-R$6k,Designer,finanças,média,True,1,iFood,Android,False,morning,True
+a234dc1dfd65bbc5,45+,AL,São Paulo,R$4k-R$6k,Coordenador,educação,média,True,3,Rappi,iOS,True,morning,True
+da0ec8f7a29192bd,25-34,AL,São Paulo,R$4k-R$6k,Diretor,varejo,MEI/micro,True,3,Rappi,iOS,True,afternoon,True
+02d81d767faef2c3,35-44,SP,,R$2k-R$4k,Gerente,outros,MEI/micro,True,2,iFood,iOS,False,afternoon,True
+2ede37eb950d8e4e,45+,MG,Rio de Janeiro,acima de R$10k,Engenheiro,educação,multinacional,True,3,Nenhum,Android,False,afternoon,True
+051a1550062c4924,,DF,Porto Alegre,,Estudante,tech,grande,True,7,Nenhum,iOS,True,afternoon,False
+951477082f97668d,25-34,RS,Curitiba,até R$2k,Analista,finanças,média,True,2,Rappi,Android,False,night,True
+37b2fb58003e0077,25-34,DF,,R$2k-R$4k,Estudante,tech,grande,True,5,iFood,Android,True,morning,True
+776f5bdb542f5aa9,18-24,PE,Belo Horizonte,até R$2k,Coordenador,saúde,grande,True,7,Nenhum,iOS,False,night,True
+c6680bd652caa67f,45+,GO,Rio de Janeiro,até R$2k,Gerente,finanças,multinacional,True,1,Rappi,Android,False,morning,True
+c921edb2505d78bd,35-44,BA,Curitiba,R$2k-R$4k,Professor,varejo,MEI/micro,True,1,Rappi,iOS,False,afternoon,True
+d7bf641387f1024d,35-44,SC,Belo Horizonte,até R$2k,Professor,tech,MEI/micro,False,0,Nenhum,iOS,False,afternoon,True
+bb9d7d1ca71f5fe8,45+,PE,,R$6k-R$10k,Coordenador,tech,grande,True,2,Rappi,Android,True,evening,True
+1810c131fe33ffa3,35-44,DF,,,Designer,outros,MEI/micro,True,5,Ambos,iOS,False,morning,True
+449f4b27c1698c2d,18-24,MG,Porto Alegre,,Coordenador,finanças,grande,True,2,Rappi,iOS,True,morning,True
+752c76dfded265d0,35-44,CE,Porto Alegre,R$2k-R$4k,Gerente De Dados,marketing,grande,True,2,Rappi,iOS,True,morning,True
+ca710a0d92fb7869,25-34,GO,,R$2k-R$4k,Consultor,tech,pequena,True,2,Nenhum,iOS,False,evening,True
+2eb292f7075daefe,25-34,RJ,Porto Alegre,R$6k-R$10k,Consultor,finanças,multinacional,False,0,Nenhum,Android,False,morning,True
+b38ee70c0fd01feb,25-34,MT,,R$4k-R$6k,Estudante,saúde,pequena,False,0,Nenhum,Android,False,evening,True
+df172cad9cad1cc4,18-24,SE,,,Professor,educação,MEI/micro,True,3,Rappi,Android,True,night,True
+fde2c55eacab4b61,25-34,SC,Rio de Janeiro,,Professor,tech,MEI/micro,True,7,Nenhum,iOS,True,evening,True
+8c0fbac1281d313f,25-34,RN,Rio de Janeiro,R$4k-R$6k,Consultor,educação,média,True,3,Nenhum,iOS,True,night,True
+c133d38e2bdf1ed2,45+,PR,São Paulo,R$6k-R$10k,Gerente Sênior,outros,pequena,True,1,Nenhum,Android,True,evening,True
+f5d157172ee579ad,35-44,PR,Belo Horizonte,até R$2k,Analista,educação,média,True,1,Rappi,iOS,False,night,False
+c8fb2a7e36080712,35-44,PB,Curitiba,acima de R$10k,Gerente,saúde,pequena,True,3,Nenhum,iOS,False,afternoon,True
+108876366fb542f2,45+,PR,Porto Alegre,R$4k-R$6k,Coordenador,educação,multinacional,False,0,Nenhum,iOS,False,morning,True
+9fcc295398a192a9,18-24,SP,Curitiba,até R$2k,Analista,marketing,pequena,True,2,Rappi,iOS,True,afternoon,False
+d25bd87c677e2977,45+,AL,São Paulo,R$2k-R$4k,Professor Sênior,tech,multinacional,True,1,iFood,iOS,True,evening,True
+0a8fb62d2c4a4cb2,25-34,PE,,R$4k-R$6k,Gerente,marketing,MEI/micro,False,0,Nenhum,Android,True,afternoon,True
+a24ef9741dee7bb2,25-34,SP,Rio de Janeiro,acima de R$10k,Designer De Dados,direito,multinacional,True,2,Nenhum,iOS,True,afternoon,False
+8eb7d9be5d64ba04,25-34,CE,Brasília,R$2k-R$4k,Engenheiro,tech,média,True,2,Nenhum,Android,False,morning,True
+6c6d167e15c963fe,,ES,,R$2k-R$4k,Coordenador,educação,pequena,True,2,iFood,Android,False,morning,True
+18c699b2aec38142,25-34,RJ,,acima de R$10k,Analista,educação,MEI/micro,True,2,iFood,Android,True,evening,True
+41c094af2900e98b,18-24,BA,,,Diretor,outros,pequena,True,7,iFood,Android,True,night,True
+5010eed5bf1930db,45+,ES,Curitiba,,Professor,tech,pequena,True,5,Rappi,Android,True,evening,True
+00abfc1dd7778d70,25-34,CE,,acima de R$10k,Desenvolvedor De Dados,tech,multinacional,True,7,Rappi,Android,False,morning,True
+77a4fa9ca057c3b1,,BA,,R$2k-R$4k,Gerente,tech,MEI/micro,True,2,Rappi,Android,False,morning,True
+c38f2a324f8282c3,25-34,MT,,acima de R$10k,Coordenador,finanças,MEI/micro,True,3,Nenhum,Android,True,afternoon,True
+36db76a944a53813,35-44,MG,Belo Horizonte,R$4k-R$6k,Engenheiro De Dados,outros,média,True,3,Rappi,Android,True,night,True
+213522cecfef4aed,35-44,CE,,até R$2k,Diretor Sênior,tech,média,True,2,Nenhum,Android,False,evening,False
+9b6b9554f8e67312,45+,MS,São Paulo,R$6k-R$10k,Analista,outros,MEI/micro,True,2,iFood,iOS,True,night,True
+560c0f9f5ecd5d05,,RJ,Belo Horizonte,R$2k-R$4k,Professor,finanças,pequena,True,2,Rappi,iOS,True,afternoon,True
+cc5f7feeed39668e,45+,AM,Brasília,,Professor,outros,média,True,1,Rappi,iOS,False,morning,True
+2d98d238cd76bf0d,25-34,RS,Belo Horizonte,R$4k-R$6k,Engenheiro,direito,grande,True,1,iFood,iOS,False,evening,True
+def3dc6c6d55cf4a,25-34,GO,São Paulo,R$2k-R$4k,Desenvolvedor,outros,MEI/micro,True,5,Ambos,Android,True,morning,True
+62a561fa5d7dbc69,,SE,,acima de R$10k,Gerente Sênior,tech,grande,True,3,iFood,iOS,False,evening,True
+18a57b25f729d853,25-34,AM,São Paulo,,Consultor Sênior,tech,grande,True,2,Nenhum,Android,False,evening,True
+195b60891ead3d97,25-34,MT,Curitiba,,Professor,outros,pequena,True,3,Rappi,Android,True,morning,True
+189d7e1185ae0a5e,25-34,ES,Brasília,R$4k-R$6k,Desenvolvedor,varejo,multinacional,True,7,Nenhum,iOS,True,evening,True
+ce06bdfab9b75237,,GO,Porto Alegre,R$2k-R$4k,Engenheiro,direito,multinacional,True,3,Ambos,iOS,False,evening,True
+d8457303347d5b14,25-34,RJ,Curitiba,R$2k-R$4k,Diretor,varejo,multinacional,True,5,iFood,Android,False,morning,True
+1a87c04fd69d6335,25-34,RN,Curitiba,R$2k-R$4k,Analista,outros,média,True,2,Ambos,Android,True,morning,True
+d64924896a571db1,25-34,RS,,,Diretor,saúde,média,True,1,Nenhum,iOS,False,morning,True
+803393033a95cdd5,,MG,Rio de Janeiro,até R$2k,Engenheiro,outros,MEI/micro,True,3,Nenhum,iOS,False,morning,True
+94dd18149f7303b2,25-34,PE,,,Professor,saúde,MEI/micro,True,7,Nenhum,Android,True,afternoon,True
+4d06a286056defa2,,PB,Rio de Janeiro,R$2k-R$4k,Coordenador,educação,grande,False,0,Nenhum,Android,True,evening,True
+1554f619e79b26ff,25-34,MG,Rio de Janeiro,R$2k-R$4k,Diretor,outros,multinacional,True,1,Ambos,iOS,True,morning,True
+b1b0d9d62879caf2,45+,MT,,R$6k-R$10k,Desenvolvedor,tech,média,True,3,iFood,iOS,True,night,False
+21895593715072cd,25-34,MG,Porto Alegre,R$4k-R$6k,Diretor,direito,MEI/micro,True,2,Rappi,iOS,True,morning,True
+202f35f0bd60fca7,18-24,DF,,R$6k-R$10k,Engenheiro,finanças,MEI/micro,True,2,Ambos,iOS,False,morning,True
+c0a3f91f3d0da3c4,35-44,MA,São Paulo,R$4k-R$6k,Gerente,outros,multinacional,True,2,Nenhum,iOS,True,afternoon,True
+50c02697591c786a,,AM,Porto Alegre,R$2k-R$4k,Consultor,marketing,MEI/micro,True,2,Rappi,Android,False,afternoon,True
+47e29874989f6371,25-34,SE,Porto Alegre,acima de R$10k,Gerente,educação,grande,True,3,Rappi,Android,True,morning,True
+c50420da9cbcaf3b,35-44,SE,São Paulo,R$4k-R$6k,Coordenador,marketing,multinacional,True,3,Rappi,Android,False,morning,True
+1cedb93253406446,35-44,MA,,,Analista,marketing,multinacional,True,3,iFood,iOS,False,morning,True
+7174d7e158d97268,35-44,DF,,R$4k-R$6k,Analista,finanças,multinacional,True,5,iFood,iOS,False,morning,True
+bc9b37d346c5a13e,35-44,DF,Porto Alegre,R$6k-R$10k,Engenheiro,tech,MEI/micro,True,5,Rappi,iOS,True,night,True
+8421f145fdf5532d,25-34,ES,São Paulo,,Diretor,tech,média,True,2,Ambos,Android,True,night,True
+ca28bc4c87371ba3,45+,GO,São Paulo,R$6k-R$10k,Diretor,marketing,média,True,3,Ambos,iOS,True,night,False
+2aba7e7ce150875d,25-34,RS,Curitiba,,Professor De Dados,outros,média,True,1,Nenhum,iOS,True,morning,True
+489731a4e6b0871d,35-44,AM,Porto Alegre,até R$2k,Consultor,marketing,multinacional,True,2,Nenhum,iOS,True,night,True
+786246b575d3fbbc,25-34,RS,Brasília,R$4k-R$6k,Coordenador,varejo,grande,True,3,Ambos,iOS,False,morning,True
+21a563daec1ccdca,25-34,AL,,acima de R$10k,Consultor,saúde,multinacional,True,7,Rappi,Android,False,evening,True
+5fffa432ffd403d2,25-34,RJ,Rio de Janeiro,,Gerente Sênior,varejo,pequena,True,1,Ambos,iOS,False,evening,True
+8d22ec854877c384,45+,BA,,R$4k-R$6k,Engenheiro De Dados,tech,média,False,0,Nenhum,Android,False,afternoon,True
+8b262a875807623a,,AM,,acima de R$10k,Coordenador,direito,média,True,5,Nenhum,iOS,True,afternoon,True
+f1e57846ffe12664,25-34,AM,,R$4k-R$6k,Designer,marketing,MEI/micro,True,1,iFood,iOS,False,evening,True
+452f5c74bad815e6,45+,SP,Rio de Janeiro,R$4k-R$6k,Designer,outros,média,False,0,Nenhum,iOS,False,evening,True
+88d56f3be66d1d93,25-34,RN,Brasília,,Diretor,tech,MEI/micro,True,3,Rappi,iOS,False,night,False
+7b254a8fb8a8a56a,,PB,São Paulo,R$6k-R$10k,Designer,tech,média,True,2,iFood,iOS,False,evening,True
+15e8da239afda3d1,35-44,ES,Curitiba,R$2k-R$4k,Analista,tech,média,False,0,Nenhum,iOS,False,afternoon,True
+0c9d7b8123c05b97,35-44,SC,Brasília,R$6k-R$10k,Coordenador,outros,média,True,2,Nenhum,iOS,False,morning,True
+29235188282ffd72,25-34,MG,,R$4k-R$6k,Designer Sênior,saúde,média,True,2,iFood,iOS,True,evening,False
+547d1a9785dd01f7,,CE,São Paulo,R$2k-R$4k,Professor,educação,média,True,3,Nenhum,iOS,True,afternoon,True
+a5f503494cf85b8b,35-44,DF,Belo Horizonte,R$4k-R$6k,Designer,varejo,pequena,True,2,Ambos,iOS,True,evening,False
+3753b5ab6e5d3150,35-44,SP,Brasília,R$2k-R$4k,Diretor,varejo,média,True,3,iFood,iOS,False,evening,True
+9e2fae7c44e4a15a,35-44,AL,São Paulo,R$6k-R$10k,Analista,marketing,MEI/micro,False,0,Nenhum,iOS,False,evening,True
+42a11895a79544e3,,GO,Brasília,R$2k-R$4k,Diretor,direito,média,True,2,Ambos,Android,True,morning,True
+576b0d634f73f5fd,35-44,PR,Porto Alegre,R$4k-R$6k,Professor Sênior,outros,grande,False,0,Nenhum,iOS,False,afternoon,True
+6dac31494d13e2b2,25-34,PB,Porto Alegre,acima de R$10k,Analista,saúde,multinacional,True,1,Ambos,iOS,False,night,False
+d46a73fa159cb9eb,25-34,AL,São Paulo,R$6k-R$10k,Diretor Sênior,educação,grande,True,7,iFood,Android,False,afternoon,False
+77c99b7bddd30a1f,,RS,Porto Alegre,até R$2k,Coordenador,varejo,média,True,2,Rappi,iOS,False,morning,True
+7f772a483b95fd44,45+,RS,Brasília,R$2k-R$4k,Analista,tech,média,True,2,Rappi,Android,True,afternoon,False
+3286a93673d5893b,45+,MA,Belo Horizonte,até R$2k,Coordenador,tech,grande,True,2,Rappi,Android,True,evening,True
+11d09393241eab0a,18-24,RN,,acima de R$10k,Estudante,finanças,média,True,3,Rappi,iOS,True,evening,False
+47904a6c2d49e676,25-34,AM,Curitiba,R$6k-R$10k,Diretor De Dados,tech,grande,True,1,Rappi,Android,True,night,True
+1edcf2808e857774,35-44,MT,,R$2k-R$4k,Estudante,varejo,multinacional,True,1,Ambos,iOS,True,morning,True
+4e67b4dca1b47a9a,25-34,MT,,R$6k-R$10k,Diretor De Dados,outros,multinacional,True,1,iFood,iOS,True,afternoon,True
+739395a28b88340c,,MG,Brasília,R$4k-R$6k,Engenheiro,educação,média,False,0,Nenhum,Android,False,morning,True
+fc6e6e35d25bc7ff,,DF,São Paulo,,Designer,educação,grande,True,2,Ambos,Android,True,afternoon,True
+96f5e5c6cf53f66e,,GO,Rio de Janeiro,R$6k-R$10k,Analista,direito,grande,True,1,iFood,Android,True,evening,True
+f39c0d6d65b4e7e3,18-24,RS,Curitiba,R$4k-R$6k,Coordenador Sênior,saúde,pequena,True,5,Ambos,Android,False,morning,True
+d9d046ba19926bfd,45+,SP,,até R$2k,Designer,direito,grande,True,3,Nenhum,iOS,True,evening,False
+1c615302b557571d,18-24,RS,Porto Alegre,R$4k-R$6k,Analista,outros,média,True,2,Rappi,iOS,True,morning,True
+3b66a9a1402d5bff,25-34,BA,São Paulo,,Engenheiro,tech,MEI/micro,True,3,iFood,Android,True,morning,False
+5719a8f9d963258e,25-34,DF,Curitiba,R$6k-R$10k,Estudante,marketing,grande,True,5,Ambos,iOS,False,morning,False
+882ef574b37dc635,,MT,,R$2k-R$4k,Engenheiro,tech,grande,True,2,iFood,Android,False,evening,True
+3e39766f377d6e2a,35-44,ES,,R$6k-R$10k,Designer,marketing,multinacional,True,5,Ambos,Android,True,evening,True
+77126cb83560faa2,25-34,PR,,R$4k-R$6k,Coordenador Sênior,outros,MEI/micro,True,7,Ambos,iOS,False,morning,True
+a3bb8f8bc4e31829,35-44,MT,Rio de Janeiro,R$2k-R$4k,Coordenador,finanças,grande,True,2,Nenhum,iOS,False,afternoon,True
+c32363c728870814,35-44,MA,Rio de Janeiro,acima de R$10k,Diretor Sênior,saúde,pequena,True,2,Rappi,iOS,False,night,True
+dc0af8f008dcf17f,35-44,GO,,R$4k-R$6k,Professor Sênior,outros,grande,True,1,iFood,iOS,False,morning,True
+758fef38cea002f2,35-44,PE,Brasília,R$2k-R$4k,Estudante,varejo,MEI/micro,False,0,Nenhum,iOS,True,night,True
+86ed3ed57a1089ad,35-44,SC,Porto Alegre,R$2k-R$4k,Designer,educação,MEI/micro,False,0,Nenhum,iOS,False,evening,True
+098c408665de48ef,,RN,Porto Alegre,R$2k-R$4k,Analista,finanças,multinacional,True,3,Rappi,iOS,True,night,False
+3ca27ac4e36f31fb,,PE,Porto Alegre,acima de R$10k,Diretor,outros,média,True,2,iFood,iOS,False,morning,False
+b6de7fae2ccac72a,,MS,São Paulo,R$4k-R$6k,Professor,saúde,pequena,True,2,iFood,Android,False,evening,True
+67f8c7eb02c81e6f,45+,RJ,Porto Alegre,R$2k-R$4k,Professor,finanças,grande,True,2,iFood,Android,True,evening,True
+5e561ee903343611,25-34,MS,,,Consultor,outros,grande,True,1,Nenhum,iOS,False,evening,True
+47f75e93ea16f8d8,18-24,BA,,R$6k-R$10k,Designer,marketing,MEI/micro,True,3,iFood,iOS,True,afternoon,True
+7d866cc404f67354,35-44,AM,Curitiba,R$2k-R$4k,Designer Sênior,tech,pequena,True,2,Ambos,Android,False,night,True
+1922c8765322fb03,25-34,DF,,R$2k-R$4k,Designer,educação,média,True,3,iFood,Android,False,evening,False
+c41dd8e92bf67007,35-44,GO,São Paulo,,Professor,varejo,grande,True,3,Rappi,iOS,False,morning,True
+b29012d84c6c4561,25-34,SE,Rio de Janeiro,acima de R$10k,Diretor,direito,pequena,True,5,Ambos,iOS,False,evening,True
+d4f4fe24030049a4,,BA,,até R$2k,Diretor,marketing,grande,True,5,iFood,Android,True,afternoon,True
+ac7752bf5242be04,18-24,MG,Curitiba,R$4k-R$6k,Gerente,finanças,grande,True,3,Rappi,iOS,True,night,True
+a28f0946bb09cc5d,,ES,,R$6k-R$10k,Designer,outros,média,True,2,iFood,iOS,True,night,True
+0fef26b66ce28b4f,25-34,PR,,R$2k-R$4k,Consultor,outros,multinacional,True,2,Rappi,Android,True,afternoon,True
+94e7ed48704bc7b3,25-34,MS,São Paulo,R$2k-R$4k,Designer,varejo,multinacional,True,3,iFood,iOS,False,afternoon,True
+887d222253695e65,,RJ,,R$2k-R$4k,Coordenador,saúde,pequena,True,5,Nenhum,iOS,True,morning,True
+5372742d2884fef0,35-44,DF,São Paulo,,Gerente,educação,média,True,7,iFood,iOS,True,afternoon,False
+51fd7c0e8a945a61,,GO,Curitiba,até R$2k,Consultor,tech,pequena,True,3,Ambos,Android,False,afternoon,True
+4da5dbd36096d507,25-34,RN,Porto Alegre,R$2k-R$4k,Analista,outros,pequena,True,3,iFood,Android,False,evening,True
+c72d0959f332a7e3,18-24,PE,Curitiba,até R$2k,Analista,tech,MEI/micro,True,7,Rappi,iOS,True,night,True
+d000d9286a2a9112,25-34,GO,São Paulo,até R$2k,Gerente,finanças,MEI/micro,True,1,Ambos,Android,False,night,True
+1430308390ba1529,45+,AL,Belo Horizonte,R$6k-R$10k,Diretor,outros,média,True,1,Ambos,iOS,False,night,True
+dfde7be47a5cf9e7,35-44,MG,,R$6k-R$10k,Desenvolvedor,marketing,média,True,5,iFood,Android,True,night,True
+94ef47fec079e034,35-44,ES,São Paulo,R$2k-R$4k,Gerente,educação,multinacional,True,1,Rappi,iOS,False,night,True
+540ff47956c3f68f,,SC,Brasília,R$4k-R$6k,Gerente,tech,MEI/micro,True,3,iFood,iOS,False,night,True
+95090ef6c4fe65e6,,SC,Curitiba,R$4k-R$6k,Coordenador,saúde,MEI/micro,True,3,Rappi,iOS,True,night,True
+92556f95066b7373,25-34,RN,,até R$2k,Engenheiro,direito,multinacional,False,0,Nenhum,Android,True,afternoon,True
+5a4a35304408287a,45+,MG,Brasília,,Engenheiro,saúde,média,True,5,Nenhum,iOS,False,afternoon,True
+bb4ee933b6efbb8a,35-44,PR,,R$2k-R$4k,Diretor,outros,MEI/micro,False,0,Nenhum,Android,False,morning,True
+448e8d1708fb4791,35-44,AL,,até R$2k,Diretor,tech,MEI/micro,True,1,Nenhum,Android,True,evening,True
+3bed94052b6f6c31,45+,SC,Curitiba,,Coordenador,outros,multinacional,True,7,Ambos,iOS,False,evening,True
+2f9b56460ed4dfde,18-24,ES,Porto Alegre,acima de R$10k,Coordenador,outros,grande,True,3,Rappi,iOS,True,night,True
+3aeb643f7c62cb68,25-34,ES,Rio de Janeiro,,Coordenador,educação,média,True,2,iFood,Android,False,evening,True
+34d0f1315e41c27c,35-44,MA,,R$6k-R$10k,Engenheiro,varejo,média,True,7,Rappi,Android,True,morning,True
+31bf1d505c2837cc,35-44,MS,Rio de Janeiro,até R$2k,Analista,direito,grande,False,0,Nenhum,Android,True,morning,True
+33f720d36543cda9,45+,PB,,,Professor,marketing,média,True,1,Ambos,Android,True,afternoon,True
+e8d61a8ddf9c8cbd,25-34,SP,,R$6k-R$10k,Professor,finanças,multinacional,True,1,Rappi,iOS,True,afternoon,False
+f4ed6185391c0ea2,25-34,ES,,,Analista,finanças,MEI/micro,False,0,Nenhum,Android,True,night,True
+46f985954cd6c350,18-24,CE,São Paulo,,Coordenador De Dados,marketing,multinacional,True,5,Nenhum,Android,False,afternoon,True
+64041e471b5081a2,35-44,AM,Belo Horizonte,,Coordenador,outros,média,True,2,Ambos,Android,False,morning,False
+902992de8d027f12,45+,DF,,acima de R$10k,Gerente,saúde,pequena,False,0,Nenhum,Android,True,afternoon,True
+4409f155d63cd30a,35-44,MG,Belo Horizonte,R$4k-R$6k,Coordenador,outros,grande,False,0,Nenhum,Android,False,night,True
+0dfd7d1d0983e7ca,35-44,AL,,R$6k-R$10k,Gerente,marketing,grande,True,7,Nenhum,Android,False,morning,True
+48a108374bf67290,25-34,PB,Curitiba,R$4k-R$6k,Gerente,finanças,pequena,False,0,Nenhum,Android,False,evening,False
+fceeb48c80b91716,25-34,ES,,R$2k-R$4k,Consultor,tech,grande,True,2,Nenhum,iOS,True,afternoon,True
+18f2947db6b6e22f,35-44,SP,Brasília,,Estudante,finanças,multinacional,True,2,iFood,iOS,False,evening,False
+8cdd190f12da301d,35-44,GO,Belo Horizonte,R$2k-R$4k,Consultor,educação,MEI/micro,True,1,Ambos,Android,True,morning,True
+d5e9d4d71c117e8c,35-44,CE,,,Analista,educação,pequena,True,3,iFood,Android,True,morning,True
+6d36d35ad610d73d,35-44,MS,,R$4k-R$6k,Desenvolvedor,educação,média,True,2,Rappi,iOS,True,morning,True
+63c83d20511e1657,,RN,,R$4k-R$6k,Engenheiro,saúde,pequena,False,0,Nenhum,Android,False,morning,True
+5bfea40ac42d906b,,ES,São Paulo,R$6k-R$10k,Diretor,outros,MEI/micro,True,3,Rappi,Android,True,evening,True
+264de37bf178b784,25-34,DF,Brasília,R$6k-R$10k,Engenheiro,outros,MEI/micro,True,3,Rappi,iOS,False,morning,True
+720b7d62b5cd4bdf,25-34,AM,Curitiba,R$2k-R$4k,Consultor Sênior,outros,multinacional,True,1,iFood,iOS,True,afternoon,True
+77141f543ca016c2,35-44,MA,,até R$2k,Diretor,tech,multinacional,True,2,Ambos,iOS,True,morning,True
+08ddcf5e2e1a02ce,25-34,PR,Brasília,,Consultor De Dados,varejo,média,True,5,iFood,Android,True,morning,True
+fd409259a5079a8e,25-34,GO,,R$4k-R$6k,Consultor Sênior,finanças,grande,True,5,Ambos,Android,True,night,True
+3dd80d5cf110ad17,25-34,ES,,R$2k-R$4k,Diretor,direito,multinacional,True,3,Nenhum,Android,False,night,True
+02f4650447d4a2e3,18-24,RS,,R$2k-R$4k,Gerente Sênior,outros,grande,True,3,iFood,iOS,False,morning,True
+e4ecbab78cf42047,25-34,AM,Curitiba,R$4k-R$6k,Desenvolvedor,tech,pequena,True,3,iFood,iOS,True,afternoon,False
+546f9868055090a2,,MT,Porto Alegre,até R$2k,Gerente,outros,MEI/micro,True,7,Rappi,iOS,False,evening,True
+2c66078949a58e0a,25-34,MT,,,Gerente De Dados,outros,multinacional,True,3,Rappi,Android,True,night,True
+2512515e2bbe39ff,35-44,RN,Rio de Janeiro,acima de R$10k,Designer,outros,MEI/micro,True,2,Ambos,Android,False,night,True
+f0bbf93fc29b1003,25-34,RS,Porto Alegre,até R$2k,Professor,tech,grande,False,0,Nenhum,iOS,False,morning,True
+40e340aeb047b192,25-34,MT,,,Diretor,tech,grande,True,2,Ambos,Android,False,afternoon,True
+ae946ea16487176f,25-34,DF,,acima de R$10k,Engenheiro Sênior,outros,grande,True,5,Nenhum,iOS,True,evening,True
+a753a6af67059c0e,25-34,ES,,R$4k-R$6k,Desenvolvedor De Dados,tech,multinacional,True,3,Rappi,iOS,False,morning,False
+588583fe5b0a06e3,25-34,AL,Belo Horizonte,,Desenvolvedor,varejo,multinacional,True,1,Rappi,Android,False,morning,True
+024d37d3dac7ac70,,MA,,até R$2k,Designer,tech,multinacional,True,1,Ambos,Android,False,afternoon,True
+4ac725a8e38ba08c,45+,SP,,,Estudante,tech,média,True,3,iFood,Android,True,afternoon,True
+0338e8d47a94cb30,,GO,,,Gerente,tech,média,True,2,iFood,iOS,True,afternoon,True
+b352470695f9169d,25-34,MS,Belo Horizonte,R$6k-R$10k,Coordenador,varejo,MEI/micro,True,1,Rappi,iOS,True,morning,True
+059f4ee936e1f600,,MG,Curitiba,acima de R$10k,Engenheiro,tech,MEI/micro,True,3,Nenhum,Android,False,night,True
+fab6e3859c325adb,25-34,MA,Porto Alegre,,Desenvolvedor,direito,multinacional,True,2,Rappi,iOS,True,evening,True
+c2a208e823196b16,18-24,SC,,R$4k-R$6k,Desenvolvedor,tech,MEI/micro,True,1,iFood,Android,True,afternoon,True
+788aeebee95e6bdd,35-44,MT,,,Designer,tech,multinacional,True,3,Nenhum,iOS,False,evening,True
+fbf6b3db6c19e73c,18-24,DF,Rio de Janeiro,,Designer,tech,multinacional,True,5,iFood,iOS,True,afternoon,True
+5f7e807a29bb30de,35-44,MA,Belo Horizonte,R$2k-R$4k,Desenvolvedor,varejo,grande,True,3,Ambos,iOS,False,evening,True
+287ac9b18412ba9c,35-44,RJ,Belo Horizonte,R$4k-R$6k,Coordenador,varejo,grande,True,2,Ambos,Android,False,morning,True
+ce4c713ee499899e,18-24,MS,Curitiba,R$2k-R$4k,Designer,educação,MEI/micro,True,2,iFood,iOS,False,evening,True
+4b1736426226c867,25-34,PB,,,Gerente,tech,multinacional,True,2,iFood,iOS,True,afternoon,True
+1e9100351675d6ba,35-44,GO,,R$4k-R$6k,Diretor,educação,média,True,2,iFood,iOS,True,night,True
+bc566ce5a3d066a9,25-34,MG,São Paulo,R$4k-R$6k,Estudante,educação,média,True,1,Nenhum,iOS,True,evening,True
+6d8bd5c46f151ad8,45+,PB,Curitiba,R$2k-R$4k,Gerente,tech,grande,True,1,iFood,Android,False,afternoon,True
+2f351ced6fd0af23,45+,RJ,Porto Alegre,acima de R$10k,Consultor,educação,grande,True,5,iFood,iOS,False,night,False
+ce15bd686484e779,25-34,ES,Belo Horizonte,R$6k-R$10k,Diretor Sênior,varejo,multinacional,True,3,Ambos,iOS,True,morning,False
+11b659224446df29,25-34,SC,,,Analista,tech,multinacional,False,0,Nenhum,iOS,True,evening,True
+de992ee89e9ef0e3,25-34,MA,,,Desenvolvedor De Dados,outros,MEI/micro,True,3,Ambos,iOS,True,evening,False
+72736289a2530768,25-34,SP,Curitiba,acima de R$10k,Estudante,educação,pequena,True,2,Ambos,Android,True,afternoon,True
+4bbc51d43504f4b5,18-24,AL,,R$2k-R$4k,Gerente,educação,multinacional,True,3,Rappi,iOS,False,morning,False
+66074b1cbc345637,25-34,PB,São Paulo,R$4k-R$6k,Gerente,educação,pequena,False,0,Nenhum,iOS,False,night,True
+b8bc42504c3b8f99,45+,ES,,acima de R$10k,Designer,outros,pequena,True,5,iFood,Android,True,afternoon,True
+68258093548912ce,35-44,AL,Porto Alegre,,Analista,tech,média,True,2,Rappi,Android,True,evening,False
+0162c568a0c3f7b2,25-34,MT,Belo Horizonte,,Gerente,tech,multinacional,True,2,iFood,iOS,True,morning,True
+d3aba8dcdf48ba23,35-44,GO,,,Estudante,marketing,MEI/micro,True,5,Nenhum,iOS,False,morning,True
+95b03a58b6e4dcee,25-34,DF,Belo Horizonte,,Estudante De Dados,educação,média,True,2,Nenhum,Android,False,afternoon,True
+42a1aee22aab5c29,25-34,ES,Brasília,até R$2k,Diretor,tech,média,False,0,Nenhum,iOS,True,morning,True
+b0eaa70180485d96,25-34,RJ,Belo Horizonte,R$2k-R$4k,Coordenador,varejo,MEI/micro,True,5,Nenhum,iOS,True,morning,True
+0d459464300118ee,45+,SE,,R$2k-R$4k,Professor,varejo,multinacional,True,1,Nenhum,iOS,False,evening,True
+9a150389c36e79bd,18-24,AM,,acima de R$10k,Analista,tech,multinacional,True,1,Nenhum,iOS,True,evening,False
+b1f559c485538e1f,18-24,CE,Porto Alegre,,Analista,outros,pequena,True,1,Ambos,Android,False,night,True
+574fbabf4b258128,25-34,MG,Curitiba,R$6k-R$10k,Diretor,finanças,média,True,1,Rappi,Android,False,morning,True
+07781e802408fa85,25-34,DF,,,Professor,outros,MEI/micro,True,1,Nenhum,iOS,True,night,True
+e056007603e43715,25-34,MG,São Paulo,R$2k-R$4k,Diretor,outros,multinacional,True,2,Rappi,Android,True,morning,True
+c74781886cc9de89,25-34,PE,Porto Alegre,R$6k-R$10k,Analista,tech,MEI/micro,True,7,Ambos,iOS,False,morning,True
+191603861f667c2e,,MG,Porto Alegre,acima de R$10k,Diretor,tech,pequena,True,3,Nenhum,iOS,False,afternoon,True
+183d9553a70e7c0e,25-34,PB,Belo Horizonte,acima de R$10k,Estudante,outros,grande,True,7,Nenhum,Android,False,afternoon,True
+fe778b1509e3448d,18-24,GO,Porto Alegre,R$2k-R$4k,Desenvolvedor,finanças,multinacional,False,0,Nenhum,Android,True,night,True
+4526f18cebe05934,25-34,AM,Belo Horizonte,,Gerente,tech,pequena,True,2,Rappi,iOS,False,morning,True
+c85ac8cc91bf783a,18-24,PR,Brasília,acima de R$10k,Designer,outros,pequena,True,3,Rappi,iOS,False,morning,True
+a14916a50049fa9a,18-24,RJ,São Paulo,até R$2k,Professor,tech,média,True,1,Ambos,Android,False,morning,True
+521fe92be1c9c63b,,PB,Brasília,,Professor,educação,multinacional,True,3,Ambos,Android,False,evening,True
+3cbd81894b5140b4,25-34,GO,,R$2k-R$4k,Desenvolvedor,saúde,pequena,True,2,Nenhum,iOS,True,morning,True
+7fb8504218e252c2,25-34,AL,Porto Alegre,R$6k-R$10k,Gerente,outros,grande,True,1,Rappi,iOS,True,night,True
+c0f5dd44ae7712e5,45+,CE,São Paulo,R$2k-R$4k,Analista,outros,média,True,3,Nenhum,iOS,False,night,True
+7f0f648af9840169,18-24,PB,,R$2k-R$4k,Consultor,marketing,multinacional,True,1,iFood,iOS,True,afternoon,True
+91a0bb9ecbe24429,45+,PB,São Paulo,R$6k-R$10k,Estudante,tech,multinacional,True,2,Nenhum,Android,False,morning,True
+e9293edd246158ab,18-24,GO,Porto Alegre,,Analista,outros,MEI/micro,True,5,Rappi,Android,False,evening,True
+e4533b464ae52b7e,,AL,,R$2k-R$4k,Analista,finanças,MEI/micro,True,2,Ambos,Android,True,night,True
+58a8f94782cdbfda,18-24,MG,,R$2k-R$4k,Gerente,outros,MEI/micro,True,3,Nenhum,Android,True,morning,True
+348bb940a6083ebe,25-34,ES,,R$6k-R$10k,Analista,tech,pequena,True,2,iFood,iOS,False,afternoon,True
+faa3b2190c150d16,18-24,SE,Porto Alegre,,Consultor,tech,grande,True,1,Rappi,Android,False,night,False
+e9c59ddb2317f191,45+,PR,Curitiba,R$4k-R$6k,Consultor Sênior,finanças,multinacional,True,7,iFood,Android,False,morning,False
+45b398f7d48ddfe1,35-44,AL,,até R$2k,Estudante,tech,grande,True,3,iFood,Android,False,afternoon,True
+bc93223f0836bc73,18-24,CE,Belo Horizonte,,Gerente,varejo,MEI/micro,True,3,Rappi,Android,False,night,True
+9f8fa84848e1bf08,25-34,DF,Brasília,R$2k-R$4k,Engenheiro,tech,média,True,3,Nenhum,iOS,True,night,True
+23eae1842330d488,35-44,SP,Brasília,acima de R$10k,Estudante,finanças,MEI/micro,False,0,Nenhum,iOS,True,afternoon,False
+1d2195459b229762,25-34,RS,Belo Horizonte,R$4k-R$6k,Diretor,outros,pequena,True,5,Nenhum,iOS,True,morning,True
+18fe72cfac85a76e,25-34,ES,Brasília,R$4k-R$6k,Analista,direito,pequena,True,3,Rappi,Android,True,afternoon,True
+73bbbad3da2cd702,25-34,PE,São Paulo,R$4k-R$6k,Professor,tech,média,True,7,Nenhum,iOS,True,evening,True
+714a5ff90e0e374e,35-44,CE,,R$4k-R$6k,Engenheiro,educação,média,True,2,Nenhum,Android,False,morning,True
+2a746230c6ce8c41,25-34,PE,,até R$2k,Estudante,saúde,média,True,3,Rappi,Android,False,night,True
+2b407f1802348cff,25-34,MG,,,Diretor,saúde,MEI/micro,True,5,iFood,iOS,False,morning,True
+6334a2bfb982dd16,25-34,AM,Rio de Janeiro,R$6k-R$10k,Professor,tech,multinacional,True,3,Rappi,iOS,True,morning,True
+a617e132e585eb9a,18-24,MS,Brasília,acima de R$10k,Coordenador,tech,multinacional,True,3,Rappi,iOS,False,afternoon,True
+e7d6ae12a7fa391b,25-34,PR,São Paulo,R$2k-R$4k,Diretor De Dados,tech,multinacional,True,5,Rappi,iOS,True,night,True
+8f42e44c5737199a,25-34,AM,São Paulo,R$4k-R$6k,Coordenador,marketing,MEI/micro,True,1,Ambos,Android,False,morning,True
+cf85e74da4c09d96,35-44,AL,,R$4k-R$6k,Engenheiro,finanças,grande,False,0,Nenhum,iOS,False,night,False
+b0d9fe372ab0f24b,18-24,CE,,R$4k-R$6k,Analista De Dados,educação,grande,True,3,Ambos,iOS,False,morning,True
+59737b51e32d16c2,25-34,MS,,,Gerente,marketing,média,True,3,Nenhum,Android,False,morning,True
+531d3d6a140acee6,18-24,SP,Curitiba,R$2k-R$4k,Consultor,saúde,MEI/micro,True,2,iFood,Android,True,evening,True
+e960c4c55f2817c7,35-44,MS,Belo Horizonte,acima de R$10k,Engenheiro,direito,pequena,True,2,Nenhum,iOS,False,night,False
+293b39850eae38d2,,RN,Curitiba,acima de R$10k,Desenvolvedor De Dados,varejo,pequena,True,3,Nenhum,iOS,True,evening,True
+625bca8adb79f19e,25-34,SP,Belo Horizonte,R$2k-R$4k,Engenheiro Sênior,varejo,pequena,True,2,Ambos,Android,True,night,True
+7e3070546ae1e4b5,35-44,ES,Brasília,,Engenheiro,varejo,pequena,True,2,Ambos,iOS,True,evening,True
+a9cbccc31c4a0e25,18-24,DF,Curitiba,R$6k-R$10k,Estudante,outros,média,True,1,iFood,iOS,False,evening,True
+ad6311921cce0a26,18-24,GO,,,Designer,varejo,MEI/micro,True,1,Rappi,Android,True,morning,True
+3aa2f6a86d7fe06c,25-34,PE,Belo Horizonte,R$4k-R$6k,Diretor Sênior,saúde,grande,True,2,Ambos,Android,False,night,True
+8ed0ad8135f77a42,45+,PB,,R$2k-R$4k,Analista De Dados,direito,pequena,True,1,Nenhum,Android,True,night,True
+d784f9ec25c3cdca,18-24,MS,Curitiba,R$4k-R$6k,Estudante,tech,pequena,True,5,Ambos,iOS,False,evening,True
+b50879cf0a06eeaf,25-34,BA,,,Estudante,finanças,média,True,3,Rappi,Android,True,night,True
+646a216b21f980d1,,RS,,acima de R$10k,Estudante,saúde,média,True,3,Ambos,iOS,False,night,True
+770c41580533d9e7,35-44,MT,São Paulo,R$6k-R$10k,Consultor,marketing,média,True,5,Rappi,iOS,True,night,True
+e295d4871719673b,25-34,SP,,,Coordenador,saúde,pequena,True,5,iFood,iOS,False,morning,True
+ee7942f8ee48f20e,,SE,São Paulo,,Desenvolvedor,outros,pequena,True,5,iFood,iOS,False,night,False
+c5a9165a8dee4b72,25-34,RN,,R$4k-R$6k,Coordenador,outros,MEI/micro,True,1,Nenhum,Android,False,morning,True
+1b487a1c00fffb2c,45+,AL,São Paulo,R$6k-R$10k,Engenheiro,marketing,MEI/micro,True,5,Ambos,Android,True,morning,True
+4dde449fcb7e0cc4,,SP,Belo Horizonte,,Designer,marketing,média,True,1,iFood,iOS,False,evening,True
+e052951e3e25210f,25-34,DF,,,Analista De Dados,tech,média,True,1,Nenhum,iOS,True,afternoon,True
+04eae71502c82e20,25-34,RJ,Brasília,R$6k-R$10k,Coordenador,finanças,pequena,True,5,Ambos,iOS,False,morning,True
+fc15239f2a5bd6d5,25-34,RJ,,R$4k-R$6k,Gerente,finanças,MEI/micro,True,1,Rappi,Android,True,evening,True
+26aa406f6b57699b,25-34,ES,Rio de Janeiro,R$4k-R$6k,Estudante,tech,grande,True,5,Ambos,Android,False,evening,True
+5ec77dec48f39703,35-44,SC,Rio de Janeiro,acima de R$10k,Analista,educação,multinacional,False,0,Nenhum,Android,True,evening,True
+5c0a674031935ae9,35-44,MA,São Paulo,,Gerente,outros,MEI/micro,True,2,Rappi,iOS,True,morning,False
+de168f3f26b13853,,MG,Belo Horizonte,R$2k-R$4k,Analista,tech,multinacional,True,2,Rappi,iOS,False,morning,True
+30a5a42815ce1588,35-44,RN,Porto Alegre,até R$2k,Gerente,saúde,MEI/micro,True,1,Ambos,iOS,False,night,True
+f5ddabc066bd0c58,35-44,MG,Curitiba,,Designer,educação,pequena,True,1,Nenhum,iOS,True,morning,True
+57a56fe97e09ad0a,35-44,AL,Rio de Janeiro,R$4k-R$6k,Coordenador,finanças,pequena,True,1,Rappi,Android,False,afternoon,True
+a9377d8fa677de77,25-34,AL,Brasília,,Gerente,saúde,pequena,False,0,Nenhum,iOS,True,morning,True
+e13a0c3b6fc3ce95,25-34,MG,,acima de R$10k,Analista,outros,média,True,2,iFood,iOS,False,night,True
+e23649ac3785ca8d,35-44,MA,Brasília,até R$2k,Gerente,outros,MEI/micro,True,2,iFood,Android,True,morning,True
+81ad547ac2ceb977,25-34,RS,Brasília,acima de R$10k,Diretor,outros,pequena,True,2,Ambos,Android,False,night,True
+9052edc25ff18a05,25-34,PB,Porto Alegre,R$2k-R$4k,Coordenador,tech,MEI/micro,False,0,Nenhum,iOS,True,evening,True
+67a65e6ad6b16a04,18-24,RJ,São Paulo,até R$2k,Designer,educação,MEI/micro,True,1,Ambos,iOS,True,night,False
+7071641e2ed97982,35-44,MA,Porto Alegre,R$2k-R$4k,Desenvolvedor,saúde,pequena,False,0,Nenhum,Android,False,evening,True
+c59d652687384f0d,35-44,SE,,R$4k-R$6k,Estudante Sênior,tech,grande,True,2,Rappi,Android,True,morning,True
+d3dfc4e69a78e899,25-34,AM,Brasília,R$2k-R$4k,Coordenador,direito,MEI/micro,True,3,Ambos,iOS,False,morning,True
+42f27264136048bc,35-44,MT,,R$4k-R$6k,Desenvolvedor,saúde,grande,True,2,Rappi,iOS,False,afternoon,True
+4d69bd0c7402fd54,35-44,DF,São Paulo,,Designer,tech,multinacional,True,1,Ambos,iOS,False,evening,False
+ea7f7327a87812e0,45+,RJ,Curitiba,,Professor,direito,média,True,1,iFood,Android,False,morning,True
+d5420f2c0bac51a8,25-34,SE,Belo Horizonte,R$2k-R$4k,Desenvolvedor De Dados,educação,grande,True,3,Nenhum,iOS,False,night,True
+403bfb3f7e4d1dd5,35-44,RN,,até R$2k,Designer,educação,média,True,1,Nenhum,Android,False,afternoon,True
+f41be01702322130,35-44,ES,Rio de Janeiro,acima de R$10k,Engenheiro,outros,pequena,True,3,iFood,Android,True,morning,True
+41381bbd03c75a53,,PE,São Paulo,R$6k-R$10k,Desenvolvedor,saúde,média,True,7,Nenhum,Android,True,evening,True
+e6e055c1f54c8a1b,35-44,RS,Porto Alegre,R$2k-R$4k,Coordenador,saúde,MEI/micro,True,2,iFood,iOS,False,morning,True
+425d45255f8c6742,25-34,MS,,,Engenheiro Sênior,tech,MEI/micro,False,0,Nenhum,Android,False,evening,True
+e4030dba76323249,18-24,AL,,,Estudante,varejo,pequena,True,2,Rappi,iOS,False,morning,True
+874f26169956f104,18-24,PB,,acima de R$10k,Consultor Sênior,marketing,multinacional,True,3,iFood,iOS,False,afternoon,True
+6087c845b1122144,45+,AM,Rio de Janeiro,R$4k-R$6k,Analista,outros,multinacional,True,1,iFood,Android,False,evening,True
