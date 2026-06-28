@@ -1,11 +1,11 @@
 # Case Palavritas — Analista de Dados, Produto & Growth
 
 Análise de retenção do Palavritas (the news), a partir do dataset
-`Case Analista de Dados — the news [Dataset Palavritas].xlsx` (na pasta acima).
+`Case Analista de Dados — the news [Dataset Palavritas].xlsx`.
 
 ## Comece por aqui
 
-- **[Analise_Palavritas_the_news.docx](Analise_Palavritas_the_news.docx)** — documento final para o Head de Produto: diagnóstico de limpeza, achados e proposta. Leia este primeiro.
+- **[Analise_Palavritas_the_news.pdf](Analise_Palavritas_the_news.pdf)** — documento final para o Head de Produto: diagnóstico de limpeza, achados e proposta. Leia este primeiro.
 - **[dashboard_palavritas.xlsx](dashboard_palavritas.xlsx)** — dashboard com KPIs em destaque, gráficos nativos e abas separadas por tema (visão geral, drivers de D30, ausência de driver de D+1, dados de apoio por perfil).
 
 ## Como o código está organizado
@@ -21,7 +21,7 @@ Os scripts rodam em sequência, cada um lendo o resultado do anterior. Todos usa
 | `04_clean_and_analyze.py` | Aplica e **documenta** cada decisão de limpeza (duplicatas, datas, encoding, domínio de valores) | xlsx original | `sessions_clean.csv`, `attempts_clean.csv`, `user_profile_clean.csv`, `cleaning_log.txt` |
 | `05_stats_analysis.py` | Testes estatísticos (qui-quadrado e teste-t de Welch, 95% de confiança) cruzando cada variável candidata com `played_next_day` (D+1) e `active_d30` (D30) | CSVs limpos | `stats_results.txt` |
 | `06_dashboard.py` | Monta o dashboard (KPIs, tabelas e gráficos nativos) | CSVs limpos | `dashboard_palavritas.xlsx` |
-| `07_build_report.py` | Gera o `.docx` final a partir dos achados (texto e tabelas já com os números extraídos da análise) | resultados das etapas acima | `Analise_Palavritas_the_news.docx` |
+| `07_build_report.py` | Gera o `.docx` final a partir dos achados (texto e tabelas já com os números extraídos da análise) | resultados das etapas acima | `Analise_Palavritas_the_news.pdf` |
 
 Para reproduzir do zero, rode os scripts na ordem numérica (`01` → `07`).
 Cada um é independente e pode ser reaberto/editado no VS Code.
